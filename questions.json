@@ -1,0 +1,4402 @@
+[
+  {
+    "question": "أي منتخب فاز بكأس العالم أكثر مرة؟ / Which national team has won the FIFA World Cup the most times?",
+    "options": [
+      "البرازيل / Brazil",
+      "ألمانيا / Germany",
+      "إيطاليا / Italy",
+      "الأرجنتين / Argentina"
+    ],
+    "correct_answer": 0,
+    "difficulty": "سهل"
+  },
+  {
+    "question": "من هو الهداف التاريخي لكأس العالم بأكثر عدد من الأهداف؟ / Who is the all-time top goalscorer in FIFA World Cup history?",
+    "options": [
+      "ميروسلاف كلوزه / Miroslav Klose",
+      "رونالدو نازاريو / Ronaldo Nazário",
+      "جيرد مولر / Gerd Müller",
+      "جست فونتين / Just Fontaine"
+    ],
+    "correct_answer": 0,
+    "difficulty": "متوسط"
+  },
+  {
+    "question": "من سجل أكبر عدد من الأهداف في بطولة كأس عالم واحدة (13 هدفاً في 1958)؟ / Who scored the most goals in a single World Cup tournament (13 goals in 1958)?",
+    "options": [
+      "جست فونتين / Just Fontaine",
+      "جيرد مولر / Gerd Müller",
+      "بيليه / Pelé",
+      "ساندور كوتشيس / Sándor Kocsis"
+    ],
+    "correct_answer": 0,
+    "difficulty": "صعب"
+  },
+  {
+    "question": "أيهما استضاف كأس العالم لأول مرة في 1930؟ / Which country hosted the first FIFA World Cup in 1930?",
+    "options": [
+      "أوروغواي / Uruguay",
+      "البرازيل / Brazil",
+      "الأرجنتين / Argentina",
+      "إيطاليا / Italy"
+    ],
+    "correct_answer": 0,
+    "difficulty": "سهل"
+  },
+  {
+    "question": "من ارتكب هدف \"يد الله\" وسجل \"هدف القرن\" في كأس العالم 1986؟ / Who scored the 'Hand of God' goal and the 'Goal of the Century' in the 1986 World Cup?",
+    "options": [
+      "دييغو مارادونا / Diego Maradona",
+      "بيليه / Pelé",
+      "زيكو / Zico",
+      "غاري ليتيكر / Gary Lineker"
+    ],
+    "correct_answer": 0,
+    "difficulty": "سهل"
+  },
+  {
+    "question": "من فاز بكأس العالم 2018؟ / Who won the 2018 FIFA World Cup?",
+    "options": [
+      "فرنسا / France",
+      "كرواتيا / Croatia",
+      "البرازيل / Brazil",
+      "ألمانيا / Germany"
+    ],
+    "correct_answer": 0,
+    "difficulty": "سهل"
+  },
+  {
+    "question": "أي لاعب فاز بثلاث بطولات كأس عالم كلاعب؟ / Which player has won three FIFA World Cups as a player?",
+    "options": [
+      "بيليه / Pelé",
+      "كافو / Cafu",
+      "فرانز بيكنباور / Franz Beckenbauer",
+      "دييغو مارادونا / Diego Maradona"
+    ],
+    "correct_answer": 0,
+    "difficulty": "متوسط"
+  },
+  {
+    "question": "أي البلدان استضافت كأس العالم 2002 بشكل مشترك؟ / Which countries co-hosted the 2002 FIFA World Cup?",
+    "options": [
+      "كوريا الجنوبية واليابان / South Korea and Japan",
+      "فرنسا وإسبانيا / France and Spain",
+      "الولايات المتحدة والمكسيك / USA and Mexico",
+      "البرازيل والأرجنتين / Brazil and Argentina"
+    ],
+    "correct_answer": 0,
+    "difficulty": "متوسط"
+  },
+  {
+    "question": "في أي نسخة استُخدم نظام حكم الفيديو المساعد VAR لأول مرة في كأس العالم؟ / In which World Cup was VAR (Video Assistant Referee) used for the first time?",
+    "options": [
+      "2014 البرازيل / 2014 Brazil",
+      "2010 جنوب أفريقيا / 2010 South Africa",
+      "2018 روسيا / 2018 Russia",
+      "2006 ألمانيا / 2006 Germany"
+    ],
+    "correct_answer": 2,
+    "difficulty": "متوسط"
+  },
+  {
+    "question": "من فاز بجائزة الحذاء الذهبي (هداف البطولة) في كأس العالم 2014؟ / Who won the Golden Boot (top scorer) at the 2014 FIFA World Cup?",
+    "options": [
+      "جيمس رودريغيز / James Rodríguez",
+      "توماس مولر / Thomas Müller",
+      "ليونيل ميسي / Lionel Messi",
+      "نيمار / Neymar"
+    ],
+    "correct_answer": 0,
+    "difficulty": "متوسط"
+  },
+  {
+    "question": "أي منتخب فاز بكأس العالم 1966؟ / Which national team won the 1966 FIFA World Cup?",
+    "options": [
+      "إنجلترا / England",
+      "ألمانيا الغربية / West Germany",
+      "البرازيل / Brazil",
+      "إيطاليا / Italy"
+    ],
+    "correct_answer": 0,
+    "difficulty": "سهل"
+  },
+  {
+    "question": "من سجل هاتريك في نهائي كأس العالم 1966؟ / Who scored a hat-trick in the 1966 World Cup final?",
+    "options": [
+      "جيف هيرست / Geoff Hurst",
+      "بوبي تشارلتون / Bobby Charlton",
+      "بيليه / Pelé",
+      "إوسيبيو / Eusébio"
+    ],
+    "correct_answer": 0,
+    "difficulty": "متوسط"
+  },
+  {
+    "question": "من هو أصغر لاعب سجل هدفاً في تاريخ نهائيات كأس العالم؟ / Who is the youngest goalscorer in FIFA World Cup finals history?",
+    "options": [
+      "بيليه / Pelé",
+      "نورمان وايتسايد / Norman Whiteside",
+      "مايكل أوين / Michael Owen",
+      "مانويل روساس / Manuel Rosas"
+    ],
+    "correct_answer": 0,
+    "difficulty": "متوسط"
+  },
+  {
+    "question": "في أي سنة استضافت جنوب أفريقيا كأس العالم؟ / In which year did South Africa host the FIFA World Cup?",
+    "options": [
+      "2010 / 2010",
+      "2006 / 2006",
+      "2014 / 2014",
+      "2002 / 2002"
+    ],
+    "correct_answer": 0,
+    "difficulty": "سهل"
+  },
+  {
+    "question": "من فاز بكأس العالم 2010؟ / Who won the 2010 FIFA World Cup?",
+    "options": [
+      "إسبانيا / Spain",
+      "هولندا / Netherlands",
+      "ألمانيا / Germany",
+      "البرازيل / Brazil"
+    ],
+    "correct_answer": 0,
+    "difficulty": "سهل"
+  },
+  {
+    "question": "أي منتخب فاز بكأس العالم عامي 1958 و1962؟ / Which country won the World Cup in both 1958 and 1962?",
+    "options": [
+      "البرازيل / Brazil",
+      "إيطاليا / Italy",
+      "أوروغواي / Uruguay",
+      "الأرجنتين / Argentina"
+    ],
+    "correct_answer": 0,
+    "difficulty": "متوسط"
+  },
+  {
+    "question": "من تعرض للطرد بعد أن دفع ماركو ماتيراتسي في نهائي كأس العالم 2006؟ / Who was sent off after headbutting Marco Materazzi in the 2006 World Cup final?",
+    "options": [
+      "زين الدين زيدان / Zinedine Zidane",
+      "ماركو ماتيراتسي / Marco Materazzi",
+      "فابيو كانافارو / Fabio Cannavaro",
+      "لويس فيغو / Luis Figo"
+    ],
+    "correct_answer": 0,
+    "difficulty": "سهل"
+  },
+  {
+    "question": "أي منتخب فاز بـ \"معجزة بيرن\" في نهائي 1954 عندما هزم المجر؟ / Which team won the 'Miracle of Bern' by defeating Hungary in the 1954 final?",
+    "options": [
+      "ألمانيا الغربية / West Germany",
+      "المجر / Hungary",
+      "البرازيل / Brazil",
+      "إنجلترا / England"
+    ],
+    "correct_answer": 0,
+    "difficulty": "متوسط"
+  },
+  {
+    "question": "من فاز بكأس العالم 1998؟ / Who won the 1998 FIFA World Cup?",
+    "options": [
+      "فرنسا / France",
+      "البرازيل / Brazil",
+      "إيطاليا / Italy",
+      "هولندا / Netherlands"
+    ],
+    "correct_answer": 0,
+    "difficulty": "سهل"
+  },
+  {
+    "question": "من حصل على جائزة الكرة الذهبية كأفضل لاعب في كأس العالم 2014؟ / Who won the Golden Ball (best player) at the 2014 World Cup?",
+    "options": [
+      "ليونيل ميسي / Lionel Messi",
+      "نيمار / Neymar",
+      "توماس مولر / Thomas Müller",
+      "أرفين روبن / Arjen Robben"
+    ],
+    "correct_answer": 0,
+    "difficulty": "متوسط"
+  },
+  {
+    "question": "أي نسخة كانت أول بطولة لكأس العالم تُقام في آسيا؟ / Which World Cup was the first to be held in Asia?",
+    "options": [
+      "2002 / 2002",
+      "1998 / 1998",
+      "2010 / 2010",
+      "1994 / 1994"
+    ],
+    "correct_answer": 0,
+    "difficulty": "متوسط"
+  },
+  {
+    "question": "من كان هداف كأس العالم 2018؟ / Who was the top scorer at the 2018 World Cup?",
+    "options": [
+      "هاري كين / Harry Kane",
+      "لوكا مودريتش / Luka Modrić",
+      "كيليان مبابي / Kylian Mbappé",
+      "روميلو لوكاكو / Romelu Lukaku"
+    ],
+    "correct_answer": 0,
+    "difficulty": "سهل"
+  },
+  {
+    "question": "من سجل أسرع هدف في تاريخ نهائيات كأس العالم (11 ثانية في 2002)؟ / Who scored the fastest goal in World Cup finals history (11 seconds in 2002)?",
+    "options": [
+      "هاكان شوكور / Hakan Şükür",
+      "كلينت ديمبسي / Clint Dempsey",
+      "برايان روبسون / Bryan Robson",
+      "كريستيان بينتيكي / Christian Benteke"
+    ],
+    "correct_answer": 0,
+    "difficulty": "صعب"
+  },
+  {
+    "question": "في نهائي كأس العالم 2014، من خسر أمام ألمانيا؟ / Who lost to Germany in the 2014 World Cup final?",
+    "options": [
+      "الأرجنتين / Argentina",
+      "هولندا / Netherlands",
+      "البرازيل / Brazil",
+      "إسبانيا / Spain"
+    ],
+    "correct_answer": 0,
+    "difficulty": "سهل"
+  },
+  {
+    "question": "أي منتخب هزم البرازيل بنتيجة 7-1 في نصف نهائي كأس العالم 2014؟ / Which team defeated Brazil 7-1 in the 2014 World Cup semi-final?",
+    "options": [
+      "ألمانيا / Germany",
+      "هولندا / Netherlands",
+      "الأرجنتين / Argentina",
+      "إسبانيا / Spain"
+    ],
+    "correct_answer": 0,
+    "difficulty": "سهل"
+  },
+  {
+    "question": "أي ملعب استضاف نهائي كأس العالم 2010؟ / Which stadium hosted the 2010 World Cup final?",
+    "options": [
+      "سوكر سيتي (جوهانسبرغ) / Soccer City (Johannesburg)",
+      "ماراكانا / Maracanã",
+      "لوزنيكي / Luzhniki",
+      "ويمبلي / Wembley"
+    ],
+    "correct_answer": 0,
+    "difficulty": "متوسط"
+  },
+  {
+    "question": "من فاز بكأس العالم 1994 بعد ركلات الترجيح في النهائي؟ / Who won the 1994 World Cup after a penalty shootout in the final?",
+    "options": [
+      "البرازيل / Brazil",
+      "إيطاليا / Italy",
+      "ألمانيا / Germany",
+      "الأرجنتين / Argentina"
+    ],
+    "correct_answer": 0,
+    "difficulty": "سهل"
+  },
+  {
+    "question": "من أحرز ركلة الجزاء الحاسمة في نهائي كأس العالم 2006؟ / Who scored the decisive penalty in the 2006 World Cup final shootout?",
+    "options": [
+      "فابيو جروسو / Fabio Grosso",
+      "أندريا بيرلو / Andrea Pirlo",
+      "زين الدين زيدان / Zinedine Zidane",
+      "ماركو ماتيراتسي / Marco Materazzi"
+    ],
+    "correct_answer": 0,
+    "difficulty": "متوسط"
+  },
+  {
+    "question": "أي منتخب إفريقي وصل لأول مرة إلى ربع نهائي كأس العالم في 1990؟ / Which African team became the first to reach the World Cup quarter-finals in 1990?",
+    "options": [
+      "الكاميرون / Cameroon",
+      "السنغال / Senegal",
+      "غانا / Ghana",
+      "المغرب / Morocco"
+    ],
+    "correct_answer": 0,
+    "difficulty": "متوسط"
+  },
+  {
+    "question": "من فاز بالحذاء الذهبي في كأس العالم 2002؟ / Who won the Golden Boot at the 2002 World Cup?",
+    "options": [
+      "رونالدو نازاريو / Ronaldo Nazário",
+      "ريفالدو / Rivaldo",
+      "ميروسلاف كلوزه / Miroslav Klose",
+      "رونالدينيو / Ronaldinho"
+    ],
+    "correct_answer": 0,
+    "difficulty": "متوسط"
+  },
+  {
+    "question": "أي من هؤلاء فاز بكأس العالم كـ لاعب ثم كمدير منتخب؟ / Which of these won the World Cup both as a player and later as a national team manager?",
+    "options": [
+      "فرانز بيكنباور / Franz Beckenbauer",
+      "بيليه / Pelé",
+      "دييغو مارادونا / Diego Maradona",
+      "رونالدو / Ronaldo"
+    ],
+    "correct_answer": 0,
+    "difficulty": "صعب"
+  },
+  {
+    "question": "من فاز بأول مباراة تُحسم بركلات الترجيح في تاريخ نهائيات كأس العالم (1982)؟ / Who won the World Cup's first-ever penalty shootout in 1982?",
+    "options": [
+      "ألمانيا الغربية / West Germany",
+      "فرنسا / France",
+      "البرازيل / Brazil",
+      "إنجلترا / England"
+    ],
+    "correct_answer": 0,
+    "difficulty": "صعب"
+  },
+  {
+    "question": "من حل ثالثاً في كأس العالم 2018؟ / Which team finished third at the 2018 World Cup?",
+    "options": [
+      "بلجيكا / Belgium",
+      "إنجلترا / England",
+      "كرواتيا / Croatia",
+      "فرنسا / France"
+    ],
+    "correct_answer": 0,
+    "difficulty": "متوسط"
+  },
+  {
+    "question": "من فاز بكأس العالم عام 1970؟ / Who won the 1970 FIFA World Cup?",
+    "options": [
+      "البرازيل / Brazil",
+      "إيطاليا / Italy",
+      "أوروغواي / Uruguay",
+      "إنجلترا / England"
+    ],
+    "correct_answer": 0,
+    "difficulty": "سهل"
+  },
+  {
+    "question": "من سجل هدف الفوز لمنتخب إسبانيا في نهائي كأس العالم 2010؟ / Who scored the winning goal for Spain in the 2010 World Cup final?",
+    "options": [
+      "أندريس إنييستا / Andrés Iniesta",
+      "تشافي هيرنانديز / Xavi Hernández",
+      "ديفيد فيا / David Villa",
+      "فرناندو توريس / Fernando Torres"
+    ],
+    "correct_answer": 0,
+    "difficulty": "سهل"
+  },
+  {
+    "question": "من فاز بجائزة القفاز الذهبي كأفضل حارس في كأس العالم 2018؟ / Who won the Golden Glove as best goalkeeper at the 2018 World Cup?",
+    "options": [
+      "تيبو كورتوا / Thibaut Courtois",
+      "هوغو لوريس / Hugo Lloris",
+      "مانويل نوير / Manuel Neuer",
+      "تير شتيغن / Marc-André ter Stegen"
+    ],
+    "correct_answer": 0,
+    "difficulty": "متوسط"
+  },
+  {
+    "question": "من فاز بجائزة الكرة الذهبية كأفضل لاعب في كأس العالم 2006؟ / Who won the Golden Ball (best player) at the 2006 World Cup?",
+    "options": [
+      "زين الدين زيدان / Zinedine Zidane",
+      "رونالدو / Ronaldo",
+      "كاكا / Kaká",
+      "أندريا بيرلو / Andrea Pirlo"
+    ],
+    "correct_answer": 0,
+    "difficulty": "متوسط"
+  },
+  {
+    "question": "أي دولة آسيوية وصلت إلى نصف نهائي كأس العالم 2002؟ / Which Asian country reached the semi-finals of the 2002 World Cup?",
+    "options": [
+      "كوريا الجنوبية / South Korea",
+      "اليابان / Japan",
+      "الصين / China",
+      "السعودية / Saudi Arabia"
+    ],
+    "correct_answer": 0,
+    "difficulty": "متوسط"
+  },
+  {
+    "question": "أي منتخب ظهر في أكبر عدد من نهائيات كأس العالم عبر التاريخ؟ / Which national team has appeared in the most World Cup finals matches (finals appearances)?",
+    "options": [
+      "ألمانيا / Germany",
+      "البرازيل / Brazil",
+      "إيطاليا / Italy",
+      "الأرجنتين / Argentina"
+    ],
+    "correct_answer": 0,
+    "difficulty": "متوسط"
+  },
+  {
+    "question": "سؤال 39: من فاز بكأس العالم 2018؟ / Question 39: Who won the 2018 FIFA World Cup?",
+    "options": [
+      "فرنسا / France",
+      "كرواتيا / Croatia",
+      "ألمانيا / Germany",
+      "البرازيل / Brazil"
+    ],
+    "correct_answer": 0,
+    "difficulty": "سهل"
+  },
+  {
+    "question": "سؤال 40: من هو هداف كأس العالم التاريخي (أكبر عدد من الأهداف)؟ / Question 40: Who is the all-time top scorer in FIFA World Cup history?",
+    "options": [
+      "ميروسلاف كلوزه / Miroslav Klose",
+      "رونالدو (البرازيل) / Ronaldo (Brazil)",
+      "غيرد مولر / Gerd Müller",
+      "جست فونتين / Just Fontaine"
+    ],
+    "correct_answer": 0,
+    "difficulty": "سهل"
+  },
+  {
+    "question": "سؤال 41: أي دولة استضافت أول كأس عالم في عام 1930؟ / Question 41: Which country hosted the first FIFA World Cup in 1930?",
+    "options": [
+      "أوروغواي / Uruguay",
+      "إيطاليا / Italy",
+      "البرازيل / Brazil",
+      "إنجلترا / England"
+    ],
+    "correct_answer": 0,
+    "difficulty": "سهل"
+  },
+  {
+    "question": "سؤال 42: أي لاعب سجّل هدف \"يد الله\" الشهير في كأس العالم 1986؟ / Question 42: Which player scored the famous 'Hand of God' goal in the 1986 World Cup?",
+    "options": [
+      "دييغو مارادونا / Diego Maradona",
+      "بيليه / Pelé",
+      "زين الدين زيدان / Zinedine Zidane",
+      "ليونيل ميسي / Lionel Messi"
+    ],
+    "correct_answer": 0,
+    "difficulty": "متوسط"
+  },
+  {
+    "question": "سؤال 43: أي دولة حصلت على أكبر عدد من ألقاب كأس العالم حتى الآن؟ / Question 43: Which country has won the most FIFA World Cup titles to date?",
+    "options": [
+      "البرازيل / Brazil",
+      "ألمانيا / Germany",
+      "إيطاليا / Italy",
+      "الأرجنتين / Argentina"
+    ],
+    "correct_answer": 0,
+    "difficulty": "سهل"
+  },
+  {
+    "question": "سؤال 44: في أي نهائي لكأس العالم تم الحسم باستخدام ركلات الترجيح للمرة الأولى؟ / Question 44: In which World Cup final was the winner decided by a penalty shootout for the first time?",
+    "options": [
+      "1994 / 1994",
+      "1998 / 1998",
+      "2006 / 2006",
+      "2014 / 2014"
+    ],
+    "correct_answer": 0,
+    "difficulty": "متوسط"
+  },
+  {
+    "question": "سؤال 45: من سجّل هاتريك في نهائي كأس العالم 1966 لصالح إنجلترا؟ / Question 45: Who scored a hat-trick for England in the 1966 World Cup final?",
+    "options": [
+      "جيف هيرست / Geoff Hurst",
+      "بوبي تشارلتون / Bobby Charlton",
+      "مارتن بيترز / Martin Peters",
+      "جيمي غريفز / Jimmy Greaves"
+    ],
+    "correct_answer": 0,
+    "difficulty": "متوسط"
+  },
+  {
+    "question": "سؤال 46: أي لاعب سجّل أكبر عدد من الأهداف في دورة واحدة من كأس العالم؟ / Question 46: Which player scored the most goals in a single FIFA World Cup tournament?",
+    "options": [
+      "جست فونتين (13 هدفًا في 1958) / Just Fontaine (13 goals in 1958)",
+      "بيليه / Pelé",
+      "ميروسلاف كلوزه / Miroslav Klose",
+      "ساندور كوتشيس / Suso?"
+    ],
+    "correct_answer": 0,
+    "difficulty": "متوسط"
+  },
+  {
+    "question": "سؤال 47: من هو اللاعب الوحيد الذي فاز بكأس العالم ثلاث مرات كلاعب؟ / Question 47: Who is the only player to have won the FIFA World Cup three times as a player?",
+    "options": [
+      "بيليه / Pelé",
+      "مارادونا / Maradona",
+      "ليونيل ميسي / Lionel Messi",
+      "زين الدين زيدان / Zinedine Zidane"
+    ],
+    "correct_answer": 0,
+    "difficulty": "سهل"
+  },
+  {
+    "question": "سؤال 48: أي دولة استضافت كأس العالم عام 1978؟ / Question 48: Which country hosted the 1978 FIFA World Cup?",
+    "options": [
+      "الأرجنتين / Argentina",
+      "إسبانيا / Spain",
+      "المكسيك / Mexico",
+      "ألمانيا / Germany"
+    ],
+    "correct_answer": 0,
+    "difficulty": "متوسط"
+  },
+  {
+    "question": "سؤال 49: في أي نسخة من كأس العالم تم استخدام تقنية حكم الفيديو المساعد (VAR) للمرة الأولى؟ / Question 49: In which World Cup was VAR (Video Assistant Referee) used for the first time?",
+    "options": [
+      "2018 / 2018",
+      "2014 / 2014",
+      "2022 / 2022",
+      "2006 / 2006"
+    ],
+    "correct_answer": 0,
+    "difficulty": "متوسط"
+  },
+  {
+    "question": "سؤال 50: من سجّل أسرع هدف في تاريخ نهائيات كأس العالم (حسب الوقت من البداية)؟ / Question 50: Who scored the fastest goal in FIFA World Cup history (from kickoff)?",
+    "options": [
+      "هاكان شوكور (11 ثانية، 2002) / Hakan Şükür (11 seconds, 2002)",
+      "كريستيانو رونالدو / Cristiano Ronaldo",
+      "ليونيل ميسي / Lionel Messi",
+      "غابرييل باتيستوتا / Gabriel Batistuta"
+    ],
+    "correct_answer": 0,
+    "difficulty": "متوسط"
+  },
+  {
+    "question": "سؤال 51: أي منتخب شارك في كل نسخ نهائيات كأس العالم منذ البداية حتى الآن؟ / Question 51: Which national team has appeared in every FIFA World Cup finals tournament?",
+    "options": [
+      "البرازيل / Brazil",
+      "ألمانيا / Germany",
+      "إيطاليا / Italy",
+      "الأرجنتين / Argentina"
+    ],
+    "correct_answer": 0,
+    "difficulty": "سهل"
+  },
+  {
+    "question": "سؤال 52: ما اسم الكأس الأصلية التي كانت تُمنح للفائزين حتى عام 1970؟ / Question 52: What was the name of the original trophy awarded to World Cup winners until 1970?",
+    "options": [
+      "كأس جول ريميه / Jules Rimet Trophy",
+      "كأس الاتحاد الدولي (كأس العالم الحالية) / FIFA World Cup Trophy",
+      "كأس هنري ديلوني / Henri Delaunay Trophy",
+      "كأس الاتحاد الأوروبي / UEFA Cup"
+    ],
+    "correct_answer": 0,
+    "difficulty": "متوسط"
+  },
+  {
+    "question": "سؤال 53: من سجّل ما يسمى \"هدف القرن\" في كأس العالم 1986؟ / Question 53: Who scored the so-called 'Goal of the Century' in the 1986 World Cup?",
+    "options": [
+      "دييغو مارادونا / Diego Maradona",
+      "بيليه / Pelé",
+      "رونالدو (البرازيل) / Ronaldo (Brazil)",
+      "زكو / Zico"
+    ],
+    "correct_answer": 0,
+    "difficulty": "متوسط"
+  },
+  {
+    "question": "سؤال 54: من كان مدرّب منتخب فرنسا الذي قادهم للفوز بكأس العالم 1998؟ / Question 54: Who was the coach that led France to the 1998 World Cup title?",
+    "options": [
+      "إيمي جاكتيه / Aimé Jacquet",
+      "ديدييه ديشان / Didier Deschamps",
+      "رايموند دومينيك / Raymond Domenech",
+      "ميشيل بلاتيني / Michel Platini"
+    ],
+    "correct_answer": 0,
+    "difficulty": "متوسط"
+  },
+  {
+    "question": "سؤال 55: أي منتخب فاز بكأس العالم 2010 في جنوب أفريقيا؟ / Question 55: Which country won the 2010 FIFA World Cup held in South Africa?",
+    "options": [
+      "إسبانيا / Spain",
+      "هولندا / Netherlands",
+      "البرازيل / Brazil",
+      "ألمانيا / Germany"
+    ],
+    "correct_answer": 0,
+    "difficulty": "متوسط"
+  },
+  {
+    "question": "سؤال 56: من كان هدّاف كأس العالم 2014 في البرازيل؟ / Question 56: Who was the top scorer at the 2014 World Cup?",
+    "options": [
+      "خيمس رودريغيز / James Rodríguez",
+      "توماس مولر / Thomas Müller",
+      "ليونيل ميسي / Lionel Messi",
+      "نيمار / Neymar"
+    ],
+    "correct_answer": 0,
+    "difficulty": "متوسط"
+  },
+  {
+    "question": "سؤال 57: من سجّل هدف الفوز في نهائي كأس العالم 2010؟ / Question 57: Who scored the winning goal in the 2010 World Cup final?",
+    "options": [
+      "أندريس إنييستا / Andrés Iniesta",
+      "تشافي هيرنانديز / Xavi Hernández",
+      "ديفيد فيا / David Villa",
+      "فرناندو توريس / Fernando Torres"
+    ],
+    "correct_answer": 0,
+    "difficulty": "سهل"
+  },
+  {
+    "question": "سؤال 58: أي منتخب خسر أمام المجر بنتيجة 10-1 في كأس العالم 1982؟ / Question 58: Which team lost 10-1 to Hungary at the 1982 World Cup?",
+    "options": [
+      "السلفادور / El Salvador",
+      "بولندا / Poland",
+      "البرتغال / Portugal",
+      "يوغوسلافيا / Yugoslavia"
+    ],
+    "correct_answer": 0,
+    "difficulty": "متوسط"
+  },
+  {
+    "question": "سؤال 59: من هو أصغر لاعب سجّل هدفًا في تاريخ نهائيات كأس العالم؟ / Question 59: Who is the youngest player to score a goal in FIFA World Cup history?",
+    "options": [
+      "بيليه / Pelé",
+      "نورمان وايتسايد / Norman Whiteside",
+      "مايكل أوين / Michael Owen",
+      "روجر ميلا / Roger Milla"
+    ],
+    "correct_answer": 0,
+    "difficulty": "سهل"
+  },
+  {
+    "question": "سؤال 60: أي نهائي يُعرف باسم \"معجزة برن\"؟ / Question 60: Which World Cup final is known as the 'Miracle of Bern'?",
+    "options": [
+      "نهائي 1954 (ألمانيا الغربية ضد المجر) / 1954 final (West Germany vs Hungary)",
+      "نهائي 1970 (البرازيل ضد إيطاليا) / 1970 final (Brazil vs Italy)",
+      "نهائي 1982 (إيطاليا ضد ألمانيا الغربية) / 1982 final (Italy vs West Germany)",
+      "نهائي 1978 (الأرجنتين ضد هولندا) / 1978 final (Argentina vs Netherlands)"
+    ],
+    "correct_answer": 0,
+    "difficulty": "متوسط"
+  },
+  {
+    "question": "سؤال 61: أي منتخب فاز بكأس العالم عندما استضاف البطولة في 1966؟ / Question 61: Which country won the World Cup when it hosted the tournament in 1966?",
+    "options": [
+      "إنجلترا / England",
+      "ألمانيا الغربية / West Germany",
+      "الأرجنتين / Argentina",
+      "البرازيل / Brazil"
+    ],
+    "correct_answer": 0,
+    "difficulty": "متوسط"
+  },
+  {
+    "question": "سؤال 62: من أضاع ركلة جزاء حاسمة في نهائي كأس العالم 1994؟ / Question 62: Who missed the decisive penalty in the 1994 World Cup final?",
+    "options": [
+      "روبرتو باجيو / Roberto Baggio",
+      "ماركو ماتيرازي / Marco Materazzi",
+      "زين الدين زيدان / Zinedine Zidane",
+      "ديفيد بيكهام / David Beckham"
+    ],
+    "correct_answer": 0,
+    "difficulty": "متوسط"
+  },
+  {
+    "question": "سؤال 63: أي منتخب وصل للمركز الوصيف (النهائي) أكثر من أي منتخب آخر؟ / Question 63: Which country has finished as World Cup runner-up more times than any other?",
+    "options": [
+      "ألمانيا / Germany",
+      "هولندا / Netherlands",
+      "الأرجنتين / Argentina",
+      "البرازيل / Brazil"
+    ],
+    "correct_answer": 0,
+    "difficulty": "متوسط"
+  },
+  {
+    "question": "سؤال 64: من فاز بجائزة الكرة الذهبية (أفضل لاعب) في كأس العالم 2014؟ / Question 64: Who won the Golden Ball (best player) at the 2014 World Cup?",
+    "options": [
+      "ليونيل ميسي / Lionel Messi",
+      "خيمس رودريغيز / James Rodríguez",
+      "توماس مولر / Thomas Müller",
+      "مانويل نوير / Manuel Neuer"
+    ],
+    "correct_answer": 0,
+    "difficulty": "متوسط"
+  },
+  {
+    "question": "سؤال 65: أي استاد استضاف نهائي كأس العالم 2014؟ / Question 65: Which stadium hosted the 2014 World Cup final?",
+    "options": [
+      "ماراكانا (ريو دي جانيرو) / Maracanã (Rio de Janeiro)",
+      "ويمبلي (لندن) / Wembley (London)",
+      "لوجنيكي (موسكو) / Luzhniki (Moscow)",
+      "أليانز أرينا (ميونيخ) / Allianz Arena (Munich)"
+    ],
+    "correct_answer": 0,
+    "difficulty": "متوسط"
+  },
+  {
+    "question": "سؤال 66: أي منتخب أفريقي وصل إلى ربع نهائي كأس العالم 1990؟ / Question 66: Which African nation reached the World Cup quarter-finals in 1990?",
+    "options": [
+      "الكاميرون / Cameroon",
+      "المغرب / Morocco",
+      "نيجيريا / Nigeria",
+      "السنغال / Senegal"
+    ],
+    "correct_answer": 0,
+    "difficulty": "متوسط"
+  },
+  {
+    "question": "سؤال 67: أي لاعب سجّل خمسة أهداف في مباراة واحدة بدور نهائيات كأس العالم عام 1994؟ / Question 67: Which player scored five goals in a single World Cup match in 1994?",
+    "options": [
+      "أوليغ سالينكو / Oleg Salenko",
+      "جست فونتين / Just Fontaine",
+      "بيليه / Pelé",
+      "ميروسلاف كلوزه / Miroslav Klose"
+    ],
+    "correct_answer": 0,
+    "difficulty": "متوسط"
+  },
+  {
+    "question": "سؤال 68: في أي سنة توسعت بطولة كأس العالم لتشمل 32 منتخبًا؟ / Question 68: In which year did the FIFA World Cup expand to include 32 teams?",
+    "options": [
+      "1998 / 1998",
+      "1982 / 1982",
+      "2006 / 2006",
+      "2010 / 2010"
+    ],
+    "correct_answer": 0,
+    "difficulty": "متوسط"
+  },
+  {
+    "question": "سؤال 69: أي دولتين استضافتا كأس العالم 2002 معًا؟ / Question 69: Which two countries co-hosted the 2002 FIFA World Cup?",
+    "options": [
+      "اليابان وكوريا الجنوبية / Japan and South Korea",
+      "إسبانيا والبرتغال / Spain and Portugal",
+      "الولايات المتحدة والمكسيك / United States and Mexico",
+      "ألمانيا والنمسا / Germany and Austria"
+    ],
+    "correct_answer": 0,
+    "difficulty": "متوسط"
+  },
+  {
+    "question": "سؤال 70: من تلقّى بطاقة حمراء بعد توجيه \"ضربة رأس\" في نهائي كأس العالم 2006؟ / Question 70: Who was sent off for headbutting in the 2006 World Cup final?",
+    "options": [
+      "زين الدين زيدان / Zinedine Zidane",
+      "ماركو ماتيرازي / Marco Materazzi",
+      "فابيو كانافارو / Fabio Cannavaro",
+      "ليليان تورام / Lilian Thuram"
+    ],
+    "correct_answer": 0,
+    "difficulty": "سهل"
+  },
+  {
+    "question": "سؤال 71: من فاز بكأس العالم 1986؟ / Question 71: Who won the 1986 FIFA World Cup?",
+    "options": [
+      "الأرجنتين / Argentina",
+      "ألمانيا الغربية / West Germany",
+      "إيطاليا / Italy",
+      "البرازيل / Brazil"
+    ],
+    "correct_answer": 0,
+    "difficulty": "سهل"
+  },
+  {
+    "question": "سؤال 72: أي من هؤلاء فاز بكأس العالم كلاعب وكمدرّب؟ / Question 72: Which of the following individuals has won the World Cup both as a player and as a manager?",
+    "options": [
+      "فرانز بيكنباور / Franz Beckenbauer",
+      "بيليه / Pelé",
+      "دييغو مارادونا / Diego Maradona",
+      "رونالدو (البرازيل) / Ronaldo (Brazil)"
+    ],
+    "correct_answer": 0,
+    "difficulty": "صعب"
+  },
+  {
+    "question": "سؤال 73: من الذي هزم البرازيل بنتيجة 7-1 في نصف نهائي كأس العالم 2014؟ / Question 73: Which team defeated Brazil 7-1 in the 2014 World Cup semi-final?",
+    "options": [
+      "ألمانيا / Germany",
+      "هولندا / Netherlands",
+      "الأرجنتين / Argentina",
+      "إسبانيا / Spain"
+    ],
+    "correct_answer": 0,
+    "difficulty": "سهل"
+  },
+  {
+    "question": "سؤال 74: من حصل على الحذاء الذهبي (الهداف) في كأس العالم 2010؟ / Question 74: Who won the Golden Boot (top scorer) at the 2010 World Cup?",
+    "options": [
+      "توماس مولر / Thomas Müller",
+      "دييغو فورلان / Diego Forlán",
+      "وسلي شنايدر / Wesley Sneijder",
+      "ديفيد فيا / David Villa"
+    ],
+    "correct_answer": 0,
+    "difficulty": "متوسط"
+  },
+  {
+    "question": "سؤال 75: أي دولة استضافت كأس العالم 1990؟ / Question 75: Which country hosted the 1990 FIFA World Cup?",
+    "options": [
+      "إيطاليا / Italy",
+      "الولايات المتحدة / United States",
+      "فرنسا / France",
+      "المكسيك / Mexico"
+    ],
+    "correct_answer": 0,
+    "difficulty": "سهل"
+  },
+  {
+    "question": "سؤال 76: من كان أول منتخب يفوز بكأس العالم مرتين متتاليتين؟ / Question 76: Which nation was the first to win consecutive FIFA World Cups?",
+    "options": [
+      "إيطاليا (1934 و1938) / Italy (1934 & 1938)",
+      "البرازيل / Brazil",
+      "أوروغواي / Uruguay",
+      "ألمانيا / Germany"
+    ],
+    "correct_answer": 0,
+    "difficulty": "متوسط"
+  },
+  {
+    "question": "سؤال 77: أي منتخب وصل إلى نهائي كأس العالم 2018 وحصل على المركز الثاني (الوصيف)؟ / Question 77: Which country reached the final and finished as runners-up in the 2018 World Cup?",
+    "options": [
+      "كرواتيا / Croatia",
+      "إنجلترا / England",
+      "بلجيكا / Belgium",
+      "فرنسا / France"
+    ],
+    "correct_answer": 0,
+    "difficulty": "متوسط"
+  },
+  {
+    "question": "سؤال 78: من فاز بأول جائزة الحذاء الذهبي (هداف البطولة) في كأس العالم 1930؟ / Question 78: Who won the first World Cup Golden Boot (top scorer) at the 1930 tournament?",
+    "options": [
+      "غييرمو ستابيلي / Guillermo Stábile",
+      "ليونيداس / Leônidas",
+      "جست فونتين / Just Fontaine",
+      "جوزيبي مياتسا / Giuseppe Meazza"
+    ],
+    "correct_answer": 0,
+    "difficulty": "صعب"
+  },
+  {
+    "question": "من فاز بكأس العالم 2018؟ / Who won the 2018 FIFA World Cup?",
+    "options": [
+      "فرنسا / France",
+      "كرواتيا / Croatia",
+      "ألمانيا / Germany",
+      "البرازيل / Brazil"
+    ],
+    "correct_answer": 0,
+    "difficulty": "سهل"
+  },
+  {
+    "question": "من هو هداف كأس العالم عبر التاريخ؟ / Who is the all-time top scorer in FIFA World Cup history?",
+    "options": [
+      "ميروسلاف كلوزه / Miroslav Klose",
+      "رونالدو (البرازيل) / Ronaldo (Brazil)",
+      "جيرد مولر / Gerd Müller",
+      "بيليه / Pelé"
+    ],
+    "correct_answer": 0,
+    "difficulty": "متوسط"
+  },
+  {
+    "question": "أي دولة استضافت كأس العالم 1994؟ / Which country hosted the 1994 FIFA World Cup?",
+    "options": [
+      "الولايات المتحدة / United States",
+      "إيطاليا / Italy",
+      "فرنسا / France",
+      "اليابان وكوريا الجنوبية / Japan & South Korea"
+    ],
+    "correct_answer": 0,
+    "difficulty": "سهل"
+  },
+  {
+    "question": "من فاز بأول دورة لكأس العالم عام 1930؟ / Who won the first FIFA World Cup in 1930?",
+    "options": [
+      "أوروغواي / Uruguay",
+      "الأرجنتين / Argentina",
+      "البرازيل / Brazil",
+      "إيطاليا / Italy"
+    ],
+    "correct_answer": 0,
+    "difficulty": "سهل"
+  },
+  {
+    "question": "أي دولة لديها أكبر عدد من ألقاب كأس العالم؟ / Which country has won the most FIFA World Cup titles?",
+    "options": [
+      "البرازيل / Brazil",
+      "ألمانيا / Germany",
+      "إيطاليا / Italy",
+      "الأرجنتين / Argentina"
+    ],
+    "correct_answer": 0,
+    "difficulty": "سهل"
+  },
+  {
+    "question": "من سجل هدف \"يد الإله\" في كأس العالم 1986؟ / Who scored the 'Hand of God' goal in the 1986 World Cup?",
+    "options": [
+      "دييغو مارادونا / Diego Maradona",
+      "غاري لينكر / Gary Lineker",
+      "روماريو / Romário",
+      "ميشيل بلاتيني / Michel Platini"
+    ],
+    "correct_answer": 0,
+    "difficulty": "سهل"
+  },
+  {
+    "question": "من فاز بكأس العالم 1966؟ / Who won the 1966 FIFA World Cup?",
+    "options": [
+      "إنجلترا / England",
+      "ألمانيا / Germany",
+      "البرتغال / Portugal",
+      "البرازيل / Brazil"
+    ],
+    "correct_answer": 0,
+    "difficulty": "سهل"
+  },
+  {
+    "question": "من سجل أسرع هدف في تاريخ نهائيات كأس العالم (11 ثانية في 2002)؟ / Who scored the fastest goal in World Cup history (11 seconds, 2002)?",
+    "options": [
+      "برايان روبسون / Bryan Robson",
+      "هاكان شوكور / Hakan Şükür",
+      "كلينت ديمبسي / Clint Dempsey",
+      "لوكاس بودولسكي / Lukas Podolski"
+    ],
+    "correct_answer": 1,
+    "difficulty": "متوسط"
+  },
+  {
+    "question": "من فاز بكأس العالم 2010؟ / Who won the 2010 FIFA World Cup?",
+    "options": [
+      "إسبانيا / Spain",
+      "هولندا / Netherlands",
+      "ألمانيا / Germany",
+      "أوروغواي / Uruguay"
+    ],
+    "correct_answer": 0,
+    "difficulty": "سهل"
+  },
+  {
+    "question": "من سجل أول ثلاثية (هاتريك) معترف بها في تاريخ كأس العالم 1930؟ / Who scored the first officially recognized hat-trick in World Cup history (1930)?",
+    "options": [
+      "غيليرمو ستابيلي / Guillermo Stábile",
+      "بيليه / Pelé",
+      "بيرت باتنود / Bert Patenaude",
+      "أولدريتش نِيدجِدلي / Oldřich Nejedlý"
+    ],
+    "correct_answer": 2,
+    "difficulty": "صعب"
+  },
+  {
+    "question": "أي دولة استضافت كأس العالم 2010؟ / Which country hosted the 2010 FIFA World Cup?",
+    "options": [
+      "جنوب أفريقيا / South Africa",
+      "البرازيل / Brazil",
+      "ألمانيا / Germany",
+      "روسيا / Russia"
+    ],
+    "correct_answer": 0,
+    "difficulty": "سهل"
+  },
+  {
+    "question": "من سجل أكبر عدد من الأهداف في دورة واحدة من كأس العالم (13 هدفًا عام 1958)؟ / Who scored the most goals in a single World Cup tournament (13 in 1958)?",
+    "options": [
+      "جوست فونتين / Just Fontaine",
+      "بيليه / Pelé",
+      "رونالدو / Ronaldo",
+      "ميروسلاف كلوزه / Miroslav Klose"
+    ],
+    "correct_answer": 0,
+    "difficulty": "متوسط"
+  },
+  {
+    "question": "من فاز بكأس العالم 1998؟ / Who won the 1998 FIFA World Cup?",
+    "options": [
+      "فرنسا / France",
+      "البرازيل / Brazil",
+      "إيطاليا / Italy",
+      "الأرجنتين / Argentina"
+    ],
+    "correct_answer": 0,
+    "difficulty": "سهل"
+  },
+  {
+    "question": "ما اسم الملعب الذي استضاف نهائي كأس العالم 2014؟ / Which stadium hosted the 2014 World Cup final?",
+    "options": [
+      "ماراكانا (ريو دي جانيرو) / Maracanã (Rio de Janeiro)",
+      "ويمبلي / Wembley",
+      "لوجنيكي / Luzhniki",
+      "أزتيكا / Azteca"
+    ],
+    "correct_answer": 0,
+    "difficulty": "متوسط"
+  },
+  {
+    "question": "أي الفريقان لعبا في نهائي كأس العالم 1994؟ / Which two teams played the 1994 World Cup final?",
+    "options": [
+      "البرازيل ضد إيطاليا / Brazil vs Italy",
+      "ألمانيا ضد الأرجنتين / Germany vs Argentina",
+      "إسبانيا ضد هولندا / Spain vs Netherlands",
+      "فرنسا ضد البرازيل / France vs Brazil"
+    ],
+    "correct_answer": 0,
+    "difficulty": "سهل"
+  },
+  {
+    "question": "من فاز بجائزة أفضل لاعب (الكرة الذهبية) في كأس العالم 2014؟ / Who won the Golden Ball (best player) at the 2014 World Cup?",
+    "options": [
+      "ليونيل ميسي / Lionel Messi",
+      "كريستيانو رونالدو / Cristiano Ronaldo",
+      "توماس مولر / Thomas Müller",
+      "نيمار / Neymar"
+    ],
+    "correct_answer": 0,
+    "difficulty": "متوسط"
+  },
+  {
+    "question": "من كانت أول دولة أفريقية تصل إلى ربع نهائي كأس العالم (1990)؟ / Which was the first African country to reach the World Cup quarter-finals (1990)?",
+    "options": [
+      "الكاميرون / Cameroon",
+      "نيجيريا / Nigeria",
+      "المغرب / Morocco",
+      "مصر / Egypt"
+    ],
+    "correct_answer": 0,
+    "difficulty": "متوسط"
+  },
+  {
+    "question": "من كان مدرب منتخب ألمانيا الفائز بكأس العالم 2014؟ / Who was the manager of Germany when they won the 2014 World Cup?",
+    "options": [
+      "يوآخيم لوف / Joachim Löw",
+      "يورغن كلينسمان / Jürgen Klinsmann",
+      "فرانز بيكنباور / Franz Beckenbauer",
+      "أوتمار هيتسفيلد / Ottmar Hitzfeld"
+    ],
+    "correct_answer": 0,
+    "difficulty": "متوسط"
+  },
+  {
+    "question": "من سجّل هدف الفوز في نهائي كأس العالم 2014؟ / Who scored the winning goal in the 2014 World Cup final?",
+    "options": [
+      "ماريو غوتزه / Mario Götze",
+      "توماس مولر / Thomas Müller",
+      "ميروسلاف كلوزه / Miroslav Klose",
+      "أندريه شورلي / André Schürrle"
+    ],
+    "correct_answer": 0,
+    "difficulty": "سهل"
+  },
+  {
+    "question": "من هو هدّاف البرازيل التاريخي في بطولات كأس العالم؟ / Who is Brazil's all-time top scorer in World Cups?",
+    "options": [
+      "بيليه / Pelé",
+      "رونالدو (نظّاره) / Ronaldo (Nazário)",
+      "روماريو / Romário",
+      "زيكو / Zico"
+    ],
+    "correct_answer": 1,
+    "difficulty": "متوسط"
+  },
+  {
+    "question": "من فاز بكأس العالم 1986؟ / Who won the 1986 FIFA World Cup?",
+    "options": [
+      "الأرجنتين / Argentina",
+      "ألمانيا الغربية / West Germany",
+      "فرنسا / France",
+      "البرازيل / Brazil"
+    ],
+    "correct_answer": 0,
+    "difficulty": "سهل"
+  },
+  {
+    "question": "من فاز بكأس العالم 2002؟ / Who won the 2002 FIFA World Cup?",
+    "options": [
+      "البرازيل / Brazil",
+      "ألمانيا / Germany",
+      "الأرجنتين / Argentina",
+      "إيطاليا / Italy"
+    ],
+    "correct_answer": 0,
+    "difficulty": "سهل"
+  },
+  {
+    "question": "من كان هدّاف كأس العالم 2018؟ / Who was the top scorer at the 2018 World Cup?",
+    "options": [
+      "هاري كين / Harry Kane",
+      "كيليان مبابي / Kylian Mbappé",
+      "روميلو لوكاكو / Romelu Lukaku",
+      "كريستيانو رونالدو / Cristiano Ronaldo"
+    ],
+    "correct_answer": 0,
+    "difficulty": "سهل"
+  },
+  {
+    "question": "من فاز بكأس العالم 1950؟ / Who won the 1950 FIFA World Cup?",
+    "options": [
+      "أوروغواي / Uruguay",
+      "البرازيل / Brazil",
+      "إيطاليا / Italy",
+      "ألمانيا / Germany"
+    ],
+    "correct_answer": 0,
+    "difficulty": "متوسط"
+  },
+  {
+    "question": "من سجل هدف \"القرن\" (Goal of the Century) في كأس العالم 1986؟ / Who scored the 'Goal of the Century' in the 1986 World Cup?",
+    "options": [
+      "دييغو مارادونا / Diego Maradona",
+      "غاري لينكر / Gary Lineker",
+      "تيم كاهيل / Tim Cahill",
+      "رونالدو / Ronaldo"
+    ],
+    "correct_answer": 0,
+    "difficulty": "سهل"
+  },
+  {
+    "question": "أي منتخب أفريقي وصل إلى نصف نهائي كأس العالم 2022؟ / Which African team reached the World Cup semi-finals in 2022?",
+    "options": [
+      "المغرب / Morocco",
+      "الكاميرون / Cameroon",
+      "السنغال / Senegal",
+      "نيجيريا / Nigeria"
+    ],
+    "correct_answer": 0,
+    "difficulty": "متوسط"
+  },
+  {
+    "question": "كم عدد المنتخبات المشاركة في كأس العالم 2018؟ / How many teams participated in the 2018 World Cup?",
+    "options": [
+      "32 / 32",
+      "24 / 24",
+      "48 / 48",
+      "16 / 16"
+    ],
+    "correct_answer": 0,
+    "difficulty": "سهل"
+  },
+  {
+    "question": "من فاز بكأس العالم 1962؟ / Who won the 1962 FIFA World Cup?",
+    "options": [
+      "البرازيل / Brazil",
+      "تشيكوسلوفاكيا / Czechoslovakia",
+      "الأرجنتين / Argentina",
+      "إنجلترا / England"
+    ],
+    "correct_answer": 0,
+    "difficulty": "سهل"
+  },
+  {
+    "question": "من كان هدّاف كأس العالم 2002 (حاصل على الحذاء الذهبي)؟ / Who was the top scorer (Golden Boot) at the 2002 World Cup?",
+    "options": [
+      "ريــفالدو / Rivaldo",
+      "رونالدو / Ronaldo",
+      "ميروسلاف كلوزه / Miroslav Klose",
+      "أوليفر كان / Oliver Kahn"
+    ],
+    "correct_answer": 1,
+    "difficulty": "متوسط"
+  },
+  {
+    "question": "في أي ملعب أقيم نهائي كأس العالم 1930؟ / At which stadium was the 1930 World Cup final held?",
+    "options": [
+      "استاديو سنتيناريو (مونتيفيديو) / Estadio Centenario (Montevideo)",
+      "ويمبلي / Wembley",
+      "ماراكانا / Maracanã",
+      "أزتيكا / Azteca"
+    ],
+    "correct_answer": 0,
+    "difficulty": "صعب"
+  },
+  {
+    "question": "أي دولة وصلت إلى نهائي كأس العالم ثلاث مرات دون الفوز بأي لقب؟ / Which country has reached the World Cup final three times without winning the title?",
+    "options": [
+      "هولندا / Netherlands",
+      "المجر / Hungary",
+      "السويد / Sweden",
+      "كرواتيا / Croatia"
+    ],
+    "correct_answer": 0,
+    "difficulty": "متوسط"
+  },
+  {
+    "question": "من فاز بكأس العالم 1970؟ / Who won the 1970 FIFA World Cup?",
+    "options": [
+      "البرازيل / Brazil",
+      "إيطاليا / Italy",
+      "ألمانيا الغربية / West Germany",
+      "إنجلترا / England"
+    ],
+    "correct_answer": 0,
+    "difficulty": "سهل"
+  },
+  {
+    "question": "من هو هدّاف منتخب ألمانيا في تاريخ بطولات كأس العالم؟ / Who is Germany's top scorer in World Cup history?",
+    "options": [
+      "جيرد مولر / Gerd Müller",
+      "ميروسلاف كلوزه / Miroslav Klose",
+      "لوكاس بودولسكي / Lukas Podolski",
+      "يورغن كلينسمان / Jürgen Klinsmann"
+    ],
+    "correct_answer": 1,
+    "difficulty": "متوسط"
+  },
+  {
+    "question": "ما هي المباراة الأعلى تهديفًا في تاريخ نهائيات كأس العالم (12 هدفًا)؟ / Which match is the highest-scoring in World Cup finals history (12 goals)?",
+    "options": [
+      "النمسا 7-5 سويسرا (1954) / Austria 7-5 Switzerland (1954)",
+      "البرازيل 7-1 السويد / Brazil 7-1 Sweden",
+      "ألمانيا 4-3 فرنسا / Germany 4-3 France",
+      "البرتغال 6-1 كوريا الشمالية / Portugal 6-1 North Korea"
+    ],
+    "correct_answer": 0,
+    "difficulty": "صعب"
+  },
+  {
+    "question": "من أهدر ركلة الجزاء الحاسمة في نهائي كأس العالم 1994؟ / Who missed the decisive penalty in the 1994 World Cup final?",
+    "options": [
+      "روبرتو باجيو / Roberto Baggio",
+      "باولو مالديني / Paolo Maldini",
+      "فرانكو باريزي / Franco Baresi",
+      "أليساندرو كوستاكورتا / Alessandro Costacurta"
+    ],
+    "correct_answer": 0,
+    "difficulty": "متوسط"
+  },
+  {
+    "question": "أي دولة استضافت كأس العالم 2006؟ / Which country hosted the 2006 FIFA World Cup?",
+    "options": [
+      "ألمانيا / Germany",
+      "اليابان وكوريا الجنوبية / Japan & South Korea",
+      "جنوب أفريقيا / South Africa",
+      "البرازيل / Brazil"
+    ],
+    "correct_answer": 0,
+    "difficulty": "سهل"
+  },
+  {
+    "question": "من فاز بجائزة أفضل لاعب شاب في كأس العالم 2010؟ / Who won the Young Player Award at the 2010 World Cup?",
+    "options": [
+      "توماس مولر / Thomas Müller",
+      "نيمار / Neymar",
+      "كـاكا / Kaká",
+      "مسعود أوزيل / Mesut Özil"
+    ],
+    "correct_answer": 0,
+    "difficulty": "متوسط"
+  },
+  {
+    "question": "من فاز بكأس العالم 1990؟ / Who won the 1990 FIFA World Cup?",
+    "options": [
+      "ألمانيا الغربية / West Germany",
+      "الأرجنتين / Argentina",
+      "إيطاليا / Italy",
+      "إنجلترا / England"
+    ],
+    "correct_answer": 0,
+    "difficulty": "سهل"
+  },
+  {
+    "question": "من سجّل هدف الفوز في نهائي كأس العالم 2010 في الوقت الإضافي؟ / Who scored the winning goal in the 2010 World Cup final in extra time?",
+    "options": [
+      "أندريس إنييستا / Andrés Iniesta",
+      "تشافي هيرنانديز / Xavi Hernández",
+      "ديفيد فيا / David Villa",
+      "فرناندو توريس / Fernando Torres"
+    ],
+    "correct_answer": 0,
+    "difficulty": "سهل"
+  },
+  {
+    "question": "أي دولة فازت بأكبر عدد من بطولات كأس العالم FIFA حتى الآن؟ / Which country has won the most FIFA World Cup titles so far?",
+    "options": [
+      "البرازيل / Brazil",
+      "ألمانيا / Germany",
+      "إيطاليا / Italy",
+      "الأرجنتين / Argentina"
+    ],
+    "correct_answer": 0,
+    "difficulty": "متوسط"
+  },
+  {
+    "question": "من الذي سجل هدف \"يد الله\" الشهير في كأس العالم 1986؟ / Who scored the famous 'Hand of God' goal in the 1986 World Cup?",
+    "options": [
+      "دييغو مارادونا / Diego Maradona",
+      "بيليه / Pelé",
+      "ميشيل بلاتيني / Michel Platini",
+      "زين الدين زيدان / Zinedine Zidane"
+    ],
+    "correct_answer": 0,
+    "difficulty": "متوسط"
+  },
+  {
+    "question": "من فاز بالحذاء الذهبي في كأس العالم 2018؟ / Who won the Golden Boot at the 2018 World Cup?",
+    "options": [
+      "هاري كين / Harry Kane",
+      "هاري ماجواير / Harry Maguire",
+      "لوكا مودريتش / Luka Modrić",
+      "كيليان مبابي / Kylian Mbappé"
+    ],
+    "correct_answer": 0,
+    "difficulty": "سهل"
+  },
+  {
+    "question": "في أي سنة أقيم أول كأس عالم FIFA وأين استضافته؟ / In which year was the first FIFA World Cup held and where?",
+    "options": [
+      "1930 - أوروغواي / 1930 - Uruguay",
+      "1928 - الأرجنتين / 1928 - Argentina",
+      "1934 - إيطاليا / 1934 - Italy",
+      "1950 - البرازيل / 1950 - Brazil"
+    ],
+    "correct_answer": 0,
+    "difficulty": "متوسط"
+  },
+  {
+    "question": "من سجل أسرع هدف في تاريخ نهائيات كأس العالم (من لحظة انطلاق المباراة)؟ / Who scored the fastest goal in World Cup finals history (from kickoff)?",
+    "options": [
+      "هاكان شوكور / Hakan Şükür",
+      "جيوف هيرست / Geoff Hurst",
+      "تييري هنري / Thierry Henry",
+      "كريستيانو رونالدو / Cristiano Ronaldo"
+    ],
+    "correct_answer": 0,
+    "difficulty": "متوسط"
+  },
+  {
+    "question": "ما هي الدولتان اللتان استضافتا كأس العالم 2002 بالمشاركة؟ / Which two countries co-hosted the 2002 World Cup?",
+    "options": [
+      "كوريا الجنوبية واليابان / South Korea and Japan",
+      "جنوب أفريقيا والبرازيل / South Africa and Brazil",
+      "ألمانيا وفرنسا / Germany and France",
+      "المكسيك والولايات المتحدة / Mexico and the United States"
+    ],
+    "correct_answer": 0,
+    "difficulty": "متوسط"
+  },
+  {
+    "question": "من يحمل رقم الأهداف الأعلى في تاريخ كأس العالم (إجمالي الأهداف في بطولات كأس العالم)؟ / Who holds the record for most goals scored in World Cup history (total goals across tournaments)?",
+    "options": [
+      "ميروسلاف كلوزه / Miroslav Klose",
+      "رونالدو (البرازيل) / Ronaldo (Brazil)",
+      "جيرد مولر / Gerd Müller",
+      "بيليه / Pelé"
+    ],
+    "correct_answer": 0,
+    "difficulty": "متوسط"
+  },
+  {
+    "question": "من فاز بجائزة الكرة الذهبية (أفضل لاعب) في كأس العالم 2014؟ / Who won the Golden Ball (best player) at the 2014 World Cup?",
+    "options": [
+      "ليونيل ميسي / Lionel Messi",
+      "كريستيانو رونالدو / Cristiano Ronaldo",
+      "توماس مولر / Thomas Müller",
+      "نيمار / Neymar"
+    ],
+    "correct_answer": 0,
+    "difficulty": "متوسط"
+  },
+  {
+    "question": "من كان أول منتخب أوروبي يفوز بكأس العالم؟ / Which was the first European team to win the World Cup?",
+    "options": [
+      "إيطاليا / Italy",
+      "ألمانيا / Germany",
+      "إسبانيا / Spain",
+      "إنجلترا / England"
+    ],
+    "correct_answer": 0,
+    "difficulty": "سهل"
+  },
+  {
+    "question": "أي نهائي لكأس العالم كان أول نهائي يُحسم بركلات الترجيح؟ / Which World Cup final was the first to be decided by a penalty shootout?",
+    "options": [
+      "1994 (الولايات المتحدة) / 1994 (USA)",
+      "1986 (المكسيك) / 1986 (Mexico)",
+      "2006 (ألمانيا) / 2006 (Germany)",
+      "1990 (إيطاليا) / 1990 (Italy)"
+    ],
+    "correct_answer": 0,
+    "difficulty": "متوسط"
+  },
+  {
+    "question": "من اللاعب الذي خاض أكبر عدد من مباريات كأس العالم حتى 2022؟ / Which player has played the most World Cup matches up to 2022?",
+    "options": [
+      "ليونيل ميسي / Lionel Messi",
+      "لوثار ماتيوس / Lothar Matthäus",
+      "كافو / Cafu",
+      "باولو مالديني / Paolo Maldini"
+    ],
+    "correct_answer": 0,
+    "difficulty": "صعب"
+  },
+  {
+    "question": "أي دولة استضافت أول كأس عالم في الشرق الأوسط؟ / Which country hosted the first World Cup in the Middle East?",
+    "options": [
+      "قطر / Qatar",
+      "السعودية / Saudi Arabia",
+      "الإمارات / United Arab Emirates",
+      "المغرب / Morocco"
+    ],
+    "correct_answer": 0,
+    "difficulty": "سهل"
+  },
+  {
+    "question": "من سجل \"هدف القرن\" في مباراة الأرجنتين ضد إنجلترا بكأس العالم 1986؟ / Who scored the 'Goal of the Century' in Argentina's match against England at the 1986 World Cup?",
+    "options": [
+      "دييغو مارادونا / Diego Maradona",
+      "غاري لينكر / Gary Lineker",
+      "مارتن بادكستشر / Martin Petrov",
+      "بيليه / Pelé"
+    ],
+    "correct_answer": 0,
+    "difficulty": "سهل"
+  },
+  {
+    "question": "من حاز لقب كابتن منتخب إيطاليا الفائز بكأس العالم 1982 وكان حارس مرمى؟ / Who was the goalkeeper captain of Italy that won the 1982 World Cup?",
+    "options": [
+      "دينو زوف / Dino Zoff",
+      "جانلويجي بوفون / Gianluigi Buffon",
+      "دوناروما / Gianluigi Donnarumma",
+      "جيانلوكا باجيو / Gianluca Vialli"
+    ],
+    "correct_answer": 0,
+    "difficulty": "متوسط"
+  },
+  {
+    "question": "من أطاح بمنتخب إنجلترا في نصف نهائي كأس العالم 2018؟ / Who knocked England out in the semi-finals of the 2018 World Cup?",
+    "options": [
+      "كرواتيا / Croatia",
+      "فرنسا / France",
+      "بلجيكا / Belgium",
+      "روسيا / Russia"
+    ],
+    "correct_answer": 0,
+    "difficulty": "سهل"
+  },
+  {
+    "question": "من الذي سجل أكبر عدد من الأهداف في دورة واحدة لكأس العالم (رقم قياسي)؟ / Who scored the most goals in a single World Cup tournament (record)?",
+    "options": [
+      "جست فونتين / Just Fontaine",
+      "جيرد مولر / Gerd Müller",
+      "رونالدو (البرازيل) / Ronaldo (Brazil)",
+      "ميروسلاف كلوزه / Miroslav Klose"
+    ],
+    "correct_answer": 0,
+    "difficulty": "صعب"
+  },
+  {
+    "question": "أي منتخب وصل إلى أكبر عدد من نهائيات كأس العالم دون الفوز بها؟ / Which national team has reached the most World Cup finals without winning?",
+    "options": [
+      "هولندا / Netherlands",
+      "السويد / Sweden",
+      "المجر / Hungary",
+      "كرواتيا / Croatia"
+    ],
+    "correct_answer": 0,
+    "difficulty": "صعب"
+  },
+  {
+    "question": "من الذي سجل هاتريك في نهائي كأس العالم 1966؟ / Who scored a hat-trick in the 1966 World Cup final?",
+    "options": [
+      "جيوف هيرست / Geoff Hurst",
+      "بيليه / Pelé",
+      "فافا / Vavá",
+      "أوليج سالينكو / Oleg Salenko"
+    ],
+    "correct_answer": 0,
+    "difficulty": "متوسط"
+  },
+  {
+    "question": "من فاز بكأس العالم 2010؟ / Who won the 2010 FIFA World Cup?",
+    "options": [
+      "إسبانيا / Spain",
+      "هولندا / Netherlands",
+      "ألمانيا / Germany",
+      "البرازيل / Brazil"
+    ],
+    "correct_answer": 0,
+    "difficulty": "سهل"
+  },
+  {
+    "question": "من هو أصغر لاعب سجل هدفاً في تاريخ كأس العالم؟ / Who is the youngest player to score a goal in World Cup history?",
+    "options": [
+      "بيليه / Pelé",
+      "نورمان وايتسيد / Norman Whiteside",
+      "كيليان مبابي / Kylian Mbappé",
+      "مايكل أوين / Michael Owen"
+    ],
+    "correct_answer": 0,
+    "difficulty": "صعب"
+  },
+  {
+    "question": "من سجل خمسة أهداف في مباراة واحدة بكأس العالم 1994؟ / Who scored five goals in a single World Cup match in 1994?",
+    "options": [
+      "أوليك سالينكو / Oleg Salenko",
+      "رونالدو (البرازيل) / Ronaldo (Brazil)",
+      "جيرد مولر / Gerd Müller",
+      "غاري لينكر / Gary Lineker"
+    ],
+    "correct_answer": 0,
+    "difficulty": "متوسط"
+  },
+  {
+    "question": "من فاز بكأس العالم 1950؟ / Who won the 1950 FIFA World Cup?",
+    "options": [
+      "أوروغواي / Uruguay",
+      "البرازيل / Brazil",
+      "إيطاليا / Italy",
+      "الأرجنتين / Argentina"
+    ],
+    "correct_answer": 0,
+    "difficulty": "متوسط"
+  },
+  {
+    "question": "من طُرد في نهائي كأس العالم 2006 بعد حادثة رأس ضد لاعب إيطالي؟ / Who was sent off in the 2006 World Cup final after a headbutt incident?",
+    "options": [
+      "زين الدين زيدان / Zinedine Zidane",
+      "ماتياز مترازي / Marco Materazzi",
+      "فرانشيسكو توتي / Francesco Totti",
+      "جانلويجي بوفون / Gianluigi Buffon"
+    ],
+    "correct_answer": 0,
+    "difficulty": "سهل"
+  },
+  {
+    "question": "أي منتخب أفريقي بلغ نصف نهائي كأس العالم 2022؟ / Which African team reached the semi-finals of the 2022 World Cup?",
+    "options": [
+      "المغرب / Morocco",
+      "نيجيريا / Nigeria",
+      "السنغال / Senegal",
+      "الكاميرون / Cameroon"
+    ],
+    "correct_answer": 0,
+    "difficulty": "متوسط"
+  },
+  {
+    "question": "من سجّل هدف الفوز لألمانيا في نهائي كأس العالم 2014؟ / Who scored the winning goal for Germany in the 2014 World Cup final?",
+    "options": [
+      "ماريو غوتزه / Mario Götze",
+      "توماس مولر / Thomas Müller",
+      "ميروسلاف كلوزه / Miroslav Klose",
+      "توني كروس / Toni Kroos"
+    ],
+    "correct_answer": 0,
+    "difficulty": "متوسط"
+  },
+  {
+    "question": "من فاز بكأس العالم 1998؟ / Who won the 1998 FIFA World Cup?",
+    "options": [
+      "فرنسا / France",
+      "البرازيل / Brazil",
+      "ألمانيا / Germany",
+      "الأرجنتين / Argentina"
+    ],
+    "correct_answer": 0,
+    "difficulty": "سهل"
+  },
+  {
+    "question": "أيهما كان أول منتخب يفوز بكأس العالم مرتين متتاليتين؟ / Which national team was the first to win consecutive World Cups?",
+    "options": [
+      "إيطاليا (1934 & 1938) / Italy (1934 & 1938)",
+      "البرازيل (1958 & 1962) / Brazil (1958 & 1962)",
+      "أوروغواي / Uruguay",
+      "ألمانيا / Germany"
+    ],
+    "correct_answer": 0,
+    "difficulty": "صعب"
+  },
+  {
+    "question": "من كان هداف كأس العالم 2002 (الحذاء الذهبي)؟ / Who was the top scorer (Golden Boot) at the 2002 World Cup?",
+    "options": [
+      "رونالدو (البرازيل) / Ronaldo (Brazil)",
+      "ريوالدو / Rivaldo",
+      "ميروسلاف كلوزه / Miroslav Klose",
+      "ثييري هنري / Thierry Henry"
+    ],
+    "correct_answer": 0,
+    "difficulty": "متوسط"
+  },
+  {
+    "question": "أي نهائي كأس عالم انتهى 0-0 ثم حُسم بركلات الترجيح عام 1994؟ من كان الفريقان؟ / Which two teams contested the 1994 World Cup final that ended 0-0 and was decided on penalties?",
+    "options": [
+      "البرازيل ضد إيطاليا / Brazil vs Italy",
+      "ألمانيا ضد الأرجنتين / Germany vs Argentina",
+      "فرنسا ضد إيطاليا / France vs Italy",
+      "إسبانيا ضد هولندا / Spain vs Netherlands"
+    ],
+    "correct_answer": 0,
+    "difficulty": "متوسط"
+  },
+  {
+    "question": "ما اسم الملعب الذي استضاف نهائي كأس العالم 2014؟ / What is the name of the stadium that hosted the 2014 World Cup final?",
+    "options": [
+      "ماراكانا (ريو دي جانيرو) / Maracanã (Rio de Janeiro)",
+      "ويمبلي (لندن) / Wembley (London)",
+      "أليانز أرينا (ميونخ) / Allianz Arena (Munich)",
+      "إستاديو أزتيكا (مكسيكو سيتي) / Estadio Azteca (Mexico City)"
+    ],
+    "correct_answer": 0,
+    "difficulty": "متوسط"
+  },
+  {
+    "question": "أي منتخب شارك في كل نسخ كأس العالم منذ انطلاقها؟ / Which national team has appeared in every World Cup tournament since its inception?",
+    "options": [
+      "البرازيل / Brazil",
+      "ألمانيا / Germany",
+      "الأرجنتين / Argentina",
+      "إيطاليا / Italy"
+    ],
+    "correct_answer": 0,
+    "difficulty": "متوسط"
+  },
+  {
+    "question": "من فاز بكأس العالم 1962؟ / Who won the 1962 FIFA World Cup?",
+    "options": [
+      "البرازيل / Brazil",
+      "تشيلي / Chile",
+      "إيطاليا / Italy",
+      "إسبانيا / Spain"
+    ],
+    "correct_answer": 0,
+    "difficulty": "متوسط"
+  },
+  {
+    "question": "أول منتخب أفريقي يصل إلى ربع نهائي كأس العالم كان أي فريق وفي أي عام؟ / Which African nation was the first to reach the World Cup quarter-finals and in which year?",
+    "options": [
+      "الكاميرون - 1990 / Cameroon - 1990",
+      "المغرب - 1986 / Morocco - 1986",
+      "الجزائر - 1982 / Algeria - 1982",
+      "تونس - 1978 / Tunisia - 1978"
+    ],
+    "correct_answer": 0,
+    "difficulty": "صعب"
+  },
+  {
+    "question": "أي منتخب هزّم البرازيل بنتيجة 7-1 في نصف نهائي كأس العالم 2014؟ / Which team defeated Brazil 7-1 in the 2014 World Cup semi-final?",
+    "options": [
+      "ألمانيا / Germany",
+      "الأرجنتين / Argentina",
+      "هولندا / Netherlands",
+      "إسبانيا / Spain"
+    ],
+    "correct_answer": 0,
+    "difficulty": "سهل"
+  },
+  {
+    "question": "من حصل على الحذاء الذهبي في كأس العالم 1990؟ / Who won the Golden Boot at the 1990 World Cup?",
+    "options": [
+      "سلفاتوري سكيلاتشي / Salvatore Schillaci",
+      "غاري لينكر / Gary Lineker",
+      "دافور شوكر / Davor Šuker",
+      "توماش سكورا / Tomáš Skuhravý"
+    ],
+    "correct_answer": 0,
+    "difficulty": "متوسط"
+  },
+  {
+    "question": "أي دولة استضافت كأس العالم 1990؟ / Which country hosted the 1990 World Cup?",
+    "options": [
+      "إيطاليا / Italy",
+      "الولايات المتحدة / United States",
+      "المكسيك / Mexico",
+      "ألمانيا / Germany"
+    ],
+    "correct_answer": 0,
+    "difficulty": "سهل"
+  },
+  {
+    "question": "ما هي أول دولة تستضيف كأس العالم مرتين؟ / Which country was the first to host the World Cup twice?",
+    "options": [
+      "المكسيك / Mexico",
+      "إنجلترا / England",
+      "فرنسا / France",
+      "إسبانيا / Spain"
+    ],
+    "correct_answer": 0,
+    "difficulty": "متوسط"
+  },
+  {
+    "question": "من كان مدرب المنتخب الإسباني الفائز بكأس العالم 2010؟ / Who was the coach of the Spanish national team that won the 2010 World Cup?",
+    "options": [
+      "فينسينتي دل بوسكي / Vicente del Bosque",
+      "لويس أراجونيس / Luis Aragonés",
+      "بيب جوارديولا / Pep Guardiola",
+      "ديل بوسكي / Del Bosque"
+    ],
+    "correct_answer": 0,
+    "difficulty": "متوسط"
+  },
+  {
+    "question": "ضد أي منتخب سجّل مارادونا هدفي \"يد الله\" و\"هدف القرن\" في كأس العالم 1986؟ / Against which team did Maradona score both the 'Hand of God' and the 'Goal of the Century' in the 1986 World Cup?",
+    "options": [
+      "إنجلترا / England",
+      "البرازيل / Brazil",
+      "ألمانيا الغربية / West Germany",
+      "إسبانيا / Spain"
+    ],
+    "correct_answer": 0,
+    "difficulty": "سهل"
+  },
+  {
+    "question": "من فاز بكأس العالم 2018؟ / Who won the 2018 FIFA World Cup?",
+    "options": [
+      "فرنسا / France",
+      "كرواتيا / Croatia",
+      "ألمانيا / Germany",
+      "الأرجنتين / Argentina"
+    ],
+    "correct_answer": 0,
+    "difficulty": "سهل"
+  },
+  {
+    "question": "من هو الهداف التاريخي لكأس العالم من حيث الأهداف الإجمالية؟ / Who is the all-time top scorer in FIFA World Cup history (total goals)?",
+    "options": [
+      "ميروسلاف كلوزه / Miroslav Klose",
+      "رونالدو (البرازيلي) / Ronaldo (Brazil)",
+      "جيرد مولر / Gerd Müller",
+      "جوست فونتين / Just Fontaine"
+    ],
+    "correct_answer": 0,
+    "difficulty": "متوسط"
+  },
+  {
+    "question": "من سجل أكبر عدد من الأهداف في نسخة واحدة من كأس العالم (13 هدفًا في 1958)؟ / Who scored the most goals in a single World Cup tournament (13 goals in 1958)?",
+    "options": [
+      "جوست فونتين / Just Fontaine",
+      "بيليه / Pelé",
+      "جيرد مولر / Gerd Müller",
+      "ميروسلاف كلوزه / Miroslav Klose"
+    ],
+    "correct_answer": 0,
+    "difficulty": "صعب"
+  },
+  {
+    "question": "أي دولة استضافت كأس العالم 1966؟ / Which country hosted the 1966 World Cup?",
+    "options": [
+      "إنجلترا / England",
+      "ألمانيا / Germany",
+      "المكسيك / Mexico",
+      "البرازيل / Brazil"
+    ],
+    "correct_answer": 0,
+    "difficulty": "سهل"
+  },
+  {
+    "question": "أي دولة فازت بعدد أكبر من بطولات كأس العالم؟ / Which country has won the most FIFA World Cups?",
+    "options": [
+      "البرازيل / Brazil",
+      "ألمانيا / Germany",
+      "إيطاليا / Italy",
+      "الأرجنتين / Argentina"
+    ],
+    "correct_answer": 0,
+    "difficulty": "سهل"
+  },
+  {
+    "question": "من فاز بكأس العالم 2022؟ / Who won the 2022 FIFA World Cup?",
+    "options": [
+      "الأرجنتين / Argentina",
+      "فرنسا / France",
+      "البرازيل / Brazil",
+      "ألمانيا / Germany"
+    ],
+    "correct_answer": 0,
+    "difficulty": "سهل"
+  },
+  {
+    "question": "في أي دولة أقيمت أول بطولة لكأس العالم عام 1930؟ / In which country was the first FIFA World Cup held in 1930?",
+    "options": [
+      "الأوروغواي / Uruguay",
+      "إيطاليا / Italy",
+      "البرازيل / Brazil",
+      "إنجلترا / England"
+    ],
+    "correct_answer": 0,
+    "difficulty": "متوسط"
+  },
+  {
+    "question": "من فاز بكأس العالم 1958؟ / Who won the 1958 World Cup?",
+    "options": [
+      "البرازيل / Brazil",
+      "السويد / Sweden",
+      "إنجلترا / England",
+      "الأوروغواي / Uruguay"
+    ],
+    "correct_answer": 0,
+    "difficulty": "متوسط"
+  },
+  {
+    "question": "أي منتخب شارك في جميع نسخ كأس العالم منذ بدايتها؟ / Which national team has appeared in every FIFA World Cup tournament since the beginning?",
+    "options": [
+      "البرازيل / Brazil",
+      "ألمانيا / Germany",
+      "الأرجنتين / Argentina",
+      "إيطاليا / Italy"
+    ],
+    "correct_answer": 0,
+    "difficulty": "متوسط"
+  },
+  {
+    "question": "ما لقب منتخب إيطاليا الوطني الذي يُستخدم عادة باللغة الإنجليزية؟ / What is the common nickname of the Italian national team?",
+    "options": [
+      "الأزوري (Azzurri) / Azzurri",
+      "الروخا (La Roja) / La Roja",
+      "الثلاثة أسود (The Three Lions) / The Three Lions",
+      "فريق السامبا (Samba Boys) / Samba Boys"
+    ],
+    "correct_answer": 0,
+    "difficulty": "متوسط"
+  },
+  {
+    "question": "من فاز بجائزة الكرة الذهبية كأفضل لاعب في كأس العالم 2014؟ / Who won the Golden Ball (best player) at the 2014 World Cup?",
+    "options": [
+      "ليونيل ميسي / Lionel Messi",
+      "خيمس رودريغيز / James Rodríguez",
+      "توماس مولر / Thomas Müller",
+      "أندريس إنييستا / Andrés Iniesta"
+    ],
+    "correct_answer": 0,
+    "difficulty": "متوسط"
+  },
+  {
+    "question": "من سجّل هدف \"يد الإله\" في كأس العالم 1986؟ / Who scored the 'Hand of God' goal in the 1986 World Cup?",
+    "options": [
+      "دييغو مارادونا / Diego Maradona",
+      "غاري لينيكر / Gary Lineker",
+      "ميشيل بلاتيني / Michel Platini",
+      "زيكو / Zico"
+    ],
+    "correct_answer": 0,
+    "difficulty": "سهل"
+  },
+  {
+    "question": "أي دولة استضافت كأس العالم 1998؟ / Which country hosted the 1998 World Cup?",
+    "options": [
+      "فرنسا / France",
+      "إسبانيا / Spain",
+      "الولايات المتحدة / USA",
+      "كوريا الجنوبية / South Korea"
+    ],
+    "correct_answer": 0,
+    "difficulty": "سهل"
+  },
+  {
+    "question": "أي منتخب هزم البرازيل في مباراة الحسم عام 1950 في ما يعرف بـ\"ماراكانازو\"؟ / Which country defeated Brazil in the decisive match of the 1950 World Cup (the 'Maracanazo')?",
+    "options": [
+      "الأوروغواي / Uruguay",
+      "إيطاليا / Italy",
+      "إسبانيا / Spain",
+      "الأرجنتين / Argentina"
+    ],
+    "correct_answer": 0,
+    "difficulty": "متوسط"
+  },
+  {
+    "question": "من سجّل ركلة الجزاء الحاسمة في ركلات الترجيح في نهائي كأس العالم 2006؟ / Who scored the decisive penalty in the shootout of the 2006 World Cup final?",
+    "options": [
+      "فابيو غروسو / Fabio Grosso",
+      "أندريا بيرلو / Andrea Pirlo",
+      "زين الدين زيدان / Zinedine Zidane",
+      "ماركو ماتيراتزي / Marco Materazzi"
+    ],
+    "correct_answer": 0,
+    "difficulty": "صعب"
+  },
+  {
+    "question": "أي دولة استضافت كأس العالم 2010؟ / Which country hosted the 2010 World Cup?",
+    "options": [
+      "جنوب أفريقيا / South Africa",
+      "المغرب / Morocco",
+      "مصر / Egypt",
+      "نيجيريا / Nigeria"
+    ],
+    "correct_answer": 0,
+    "difficulty": "سهل"
+  },
+  {
+    "question": "من هو اللاعب الوحيد الذي فاز بثلاث بطولات كأس العالم؟ / Which player is the only one to have won three FIFA World Cups?",
+    "options": [
+      "بيليه / Pelé",
+      "دييغو مارادونا / Diego Maradona",
+      "فرانز بيكنباور / Franz Beckenbauer",
+      "كافو / Cafu"
+    ],
+    "correct_answer": 0,
+    "difficulty": "متوسط"
+  },
+  {
+    "question": "أي ملعب استضاف نهائي كأس العالم 2014؟ / Which stadium hosted the 2014 World Cup final?",
+    "options": [
+      "الماراكانا / Maracanã",
+      "إستاديو آزتيكا / Estadio Azteca",
+      "ويمبلي / Wembley",
+      "سيجنال إيدونا بارك / Signal Iduna Park"
+    ],
+    "correct_answer": 0,
+    "difficulty": "متوسط"
+  },
+  {
+    "question": "من فاز بالحذاء الذهبي في كأس العالم 2010؟ / Who won the Golden Boot at the 2010 World Cup?",
+    "options": [
+      "توماس مولر / Thomas Müller",
+      "دييغو فورلان / Diego Forlán",
+      "وسلي شنايدر / Wesley Sneijder",
+      "ديفيد فيا / David Villa"
+    ],
+    "correct_answer": 0,
+    "difficulty": "متوسط"
+  },
+  {
+    "question": "من سجّل أسرع هدف في تاريخ نهائيات كأس العالم (بعد 11 ثانية في 2002)؟ / Who scored the fastest goal in World Cup finals history (11 seconds in 2002)?",
+    "options": [
+      "هاكان شوكور / Hakan Şükür",
+      "براين روبسون / Bryan Robson",
+      "كريستيانو رونالدو / Cristiano Ronaldo",
+      "ليونيل ميسي / Lionel Messi"
+    ],
+    "correct_answer": 0,
+    "difficulty": "صعب"
+  },
+  {
+    "question": "من فاز بكأس العالم 1934؟ / Who won the 1934 World Cup?",
+    "options": [
+      "إيطاليا / Italy",
+      "الأوروغواي / Uruguay",
+      "ألمانيا / Germany",
+      "إسبانيا / Spain"
+    ],
+    "correct_answer": 0,
+    "difficulty": "متوسط"
+  },
+  {
+    "question": "أي منتخب أفريقي بلغ الدور ربع النهائي لكأس العالم 1990؟ / Which African nation reached the World Cup quarterfinals in 1990?",
+    "options": [
+      "الكاميرون / Cameroon",
+      "المغرب / Morocco",
+      "نيجيريا / Nigeria",
+      "الجزائر / Algeria"
+    ],
+    "correct_answer": 0,
+    "difficulty": "متوسط"
+  },
+  {
+    "question": "من سجّل هدف \"هدف القرن\" في مباراة إنجلترا 1986؟ / Who scored the 'Goal of the Century' in the 1986 match against England?",
+    "options": [
+      "دييغو مارادونا / Diego Maradona",
+      "غاري لينيكر / Gary Lineker",
+      "إميليو بوتراجينيو / Emilio Butragueño",
+      "ميشيل بلاتيني / Michel Platini"
+    ],
+    "correct_answer": 0,
+    "difficulty": "سهل"
+  },
+  {
+    "question": "أي دولتين استضافتا كأس العالم 2002 معًا؟ / Which two countries co-hosted the 2002 World Cup?",
+    "options": [
+      "اليابان وكوريا الجنوبية / Japan and South Korea",
+      "اليابان والصين / Japan and China",
+      "كوريا الجنوبية والصين / South Korea and China",
+      "اليابان وأستراليا / Japan and Australia"
+    ],
+    "correct_answer": 0,
+    "difficulty": "سهل"
+  },
+  {
+    "question": "من هو الحارس الوحيد الذي فاز بجائزة الكرة الذهبية في كأس العالم؟ / Who is the only goalkeeper to win the World Cup Golden Ball?",
+    "options": [
+      "أوليفر كان / Oliver Kahn",
+      "جيانلويجي بوفون / Gianluigi Buffon",
+      "إيكر كاسياس / Iker Casillas",
+      "ليف ياشين / Lev Yashin"
+    ],
+    "correct_answer": 0,
+    "difficulty": "متوسط"
+  },
+  {
+    "question": "أي دولة لديها أكبر عدد من الظهور في نهائيات كأس العالم (ظهور في المباريات النهائية)؟ / Which country has appeared in the most World Cup finals (final matches)?",
+    "options": [
+      "ألمانيا / Germany",
+      "البرازيل / Brazil",
+      "إيطاليا / Italy",
+      "الأرجنتين / Argentina"
+    ],
+    "correct_answer": 0,
+    "difficulty": "صعب"
+  },
+  {
+    "question": "من سجّل أول هاتريك في نهائي كأس العالم؟ / Who scored the first hat-trick in a World Cup final?",
+    "options": [
+      "جيف هيرست / Geoff Hurst",
+      "بيليه / Pelé",
+      "جيرد مولر / Gerd Müller",
+      "أوزيبيو / Eusébio"
+    ],
+    "correct_answer": 0,
+    "difficulty": "صعب"
+  },
+  {
+    "question": "أي منتخب احتل المركز الثالث في كأس العالم 2002؟ / Which team finished third at the 2002 World Cup?",
+    "options": [
+      "تركيا / Turkey",
+      "ألمانيا / Germany",
+      "كوريا الجنوبية / South Korea",
+      "إسبانيا / Spain"
+    ],
+    "correct_answer": 0,
+    "difficulty": "متوسط"
+  },
+  {
+    "question": "من سجّل هدف الفوز في نهائي كأس العالم 2014؟ / Who scored the winning goal in the 2014 World Cup final?",
+    "options": [
+      "ماريو غوتزه / Mario Götze",
+      "نيمار / Neymar",
+      "ليونيل ميسي / Lionel Messi",
+      "توماس مولر / Thomas Müller"
+    ],
+    "correct_answer": 0,
+    "difficulty": "متوسط"
+  },
+  {
+    "question": "من فاز بالحذاء الذهبي في كأس العالم 1998؟ / Who won the Golden Boot at the 1998 World Cup?",
+    "options": [
+      "دافور شوكر / Davor Šuker",
+      "رونالدو / Ronaldo",
+      "غابرييل باتيستوتا / Gabriel Batistuta",
+      "مايكل أوين / Michael Owen"
+    ],
+    "correct_answer": 0,
+    "difficulty": "متوسط"
+  },
+  {
+    "question": "في أي عام أقيم أول كأس عالم؟ / In what year was the first FIFA World Cup held?",
+    "options": [
+      "1930 / 1930",
+      "1928 / 1928",
+      "1934 / 1934",
+      "1940 / 1940"
+    ],
+    "correct_answer": 0,
+    "difficulty": "سهل"
+  },
+  {
+    "question": "في أي نسخة من كأس العالم تم استخدام تقنية حكم الفيديو المساعد (VAR) لأول مرة؟ / In which World Cup was VAR (Video Assistant Referee) used for the first time?",
+    "options": [
+      "2018 / 2018",
+      "2014 / 2014",
+      "2010 / 2010",
+      "2006 / 2006"
+    ],
+    "correct_answer": 0,
+    "difficulty": "متوسط"
+  },
+  {
+    "question": "من هو هداف البرازيل في تاريخ مشاركاتها في كأس العالم؟ / Who is Brazil's all-time top scorer in World Cup matches?",
+    "options": [
+      "رونالدو (نزاريو) / Ronaldo (Nazário)",
+      "بيليه / Pelé",
+      "روماريو / Romário",
+      "رونالدينيو / Ronaldinho"
+    ],
+    "correct_answer": 0,
+    "difficulty": "متوسط"
+  },
+  {
+    "question": "من فاز بكأس العالم 1970؟ / Who won the 1970 World Cup?",
+    "options": [
+      "البرازيل / Brazil",
+      "إيطاليا / Italy",
+      "ألمانيا / Germany",
+      "إنجلترا / England"
+    ],
+    "correct_answer": 0,
+    "difficulty": "متوسط"
+  },
+  {
+    "question": "أي دولة فازت بكأس العالم 1966؟ / Which country won the 1966 World Cup?",
+    "options": [
+      "إنجلترا / England",
+      "ألمانيا الغربية / West Germany",
+      "البرازيل / Brazil",
+      "إيطاليا / Italy"
+    ],
+    "correct_answer": 0,
+    "difficulty": "سهل"
+  },
+  {
+    "question": "أي منتخب فاز بكأس العالم 1994 بعد ركلات الترجيح في النهائي؟ / Which team won the 1994 World Cup after a penalty shootout in the final?",
+    "options": [
+      "البرازيل / Brazil",
+      "إيطاليا / Italy",
+      "ألمانيا / Germany",
+      "الأرجنتين / Argentina"
+    ],
+    "correct_answer": 0,
+    "difficulty": "متوسط"
+  },
+  {
+    "question": "من هو الهداف التاريخي لمنتخب الأرجنتين في نهائيات كأس العالم (حتى 2022)؟ / Who is Argentina's all-time top scorer in World Cup tournaments (up to 2022)?",
+    "options": [
+      "ليونيل ميسي / Lionel Messi",
+      "غابرييل باتيستوتا / Gabriel Batistuta",
+      "دييغو مارادونا / Diego Maradona",
+      "هيرنان كريسبو / Hernán Crespo"
+    ],
+    "correct_answer": 0,
+    "difficulty": "متوسط"
+  },
+  {
+    "question": "أي ملعب استضاف نهائي كأس العالم 1966؟ / Which stadium hosted the 1966 World Cup final?",
+    "options": [
+      "ويمبلي / Wembley",
+      "الماراكانا / Maracanã",
+      "آزتيكا / Azteca",
+      "سان سيرو / San Siro"
+    ],
+    "correct_answer": 0,
+    "difficulty": "متوسط"
+  },
+  {
+    "question": "من فاز بالحذاء الذهبي في كأس العالم 2006؟ / Who won the Golden Boot at the 2006 World Cup?",
+    "options": [
+      "ميروسلاف كلوزه / Miroslav Klose",
+      "ثييري هنري / Thierry Henry",
+      "رونالدينيو / Ronaldinho",
+      "لوكاس بودولسكي / Lukas Podolski"
+    ],
+    "correct_answer": 0,
+    "difficulty": "متوسط"
+  },
+  {
+    "question": "أي دولة نجحت في الدفاع عن لقب كأس العالم بفوزها في عامي 1934 و1938؟ / Which country successfully defended its World Cup title by winning both in 1934 and 1938?",
+    "options": [
+      "إيطاليا / Italy",
+      "البرازيل / Brazil",
+      "الأوروغواي / Uruguay",
+      "ألمانيا / Germany"
+    ],
+    "correct_answer": 0,
+    "difficulty": "صعب"
+  },
+  {
+    "question": "197. من فاز بكأس العالم 1966؟ / 197. Who won the 1966 FIFA World Cup?",
+    "options": [
+      "إنجلترا / England",
+      "ألمانيا الغربية / West Germany",
+      "البرازيل / Brazil",
+      "إيطاليا / Italy"
+    ],
+    "correct_answer": 0,
+    "difficulty": "سهل"
+  },
+  {
+    "question": "198. من هو هداف كأس العالم على مر التاريخ (أعلى عدد من الأهداف في نهائيات كأس العالم)؟ / 198. Who is the all-time top scorer in FIFA World Cup finals history?",
+    "options": [
+      "ميروسلاف كلوزه / Miroslav Klose",
+      "رونالدو (البرازيل) / Ronaldo (Brazil)",
+      "جيرد مولر / Gerd Müller",
+      "بيليه / Pelé"
+    ],
+    "correct_answer": 0,
+    "difficulty": "متوسط"
+  },
+  {
+    "question": "199. أي دولة استضافت كأس العالم لأول مرة في أفريقيا؟ / 199. Which country hosted the FIFA World Cup for the first time in Africa?",
+    "options": [
+      "جنوب أفريقيا 2010 / South Africa 2010",
+      "المغرب 1998 / Morocco 1998",
+      "مصر 2006 / Egypt 2006",
+      "الجزائر 2014 / Algeria 2014"
+    ],
+    "correct_answer": 0,
+    "difficulty": "سهل"
+  },
+  {
+    "question": "200. من نفذ كرة \"يد الرب\" (Hand of God) في كأس العالم 1986؟ / 200. Who scored the 'Hand of God' goal in the 1986 World Cup?",
+    "options": [
+      "دييغو مارادونا / Diego Maradona",
+      "بيليه / Pelé",
+      "زيرو / Zico",
+      "ميشيل بلاتيني / Michel Platini"
+    ],
+    "correct_answer": 0,
+    "difficulty": "متوسط"
+  },
+  {
+    "question": "201. أي دولة تملك أكبر عدد من ألقاب كأس العالم؟ / 201. Which country has won the most FIFA World Cup titles?",
+    "options": [
+      "البرازيل / Brazil",
+      "ألمانيا / Germany",
+      "إيطاليا / Italy",
+      "الأرجنتين / Argentina"
+    ],
+    "correct_answer": 0,
+    "difficulty": "سهل"
+  },
+  {
+    "question": "202. من فاز بجائزة الحذاء الذهبي في مونديال 2018؟ / 202. Who won the Golden Boot at the 2018 FIFA World Cup?",
+    "options": [
+      "هاري كين / Harry Kane",
+      "روميلو لوكاكو / Romelu Lukaku",
+      "كيليان مبابي / Kylian Mbappé",
+      "أنطوان غريزمان / Antoine Griezmann"
+    ],
+    "correct_answer": 0,
+    "difficulty": "سهل"
+  },
+  {
+    "question": "203. أي دولة استضافت كأس العالم عام 1970؟ / 203. Which country hosted the 1970 FIFA World Cup?",
+    "options": [
+      "المكسيك / Mexico",
+      "الولايات المتحدة / United States",
+      "تشيلي / Chile",
+      "إنجلترا / England"
+    ],
+    "correct_answer": 0,
+    "difficulty": "متوسط"
+  },
+  {
+    "question": "204. من سجل هدف \"عصر القرن\" (Goal of the Century) في مونديال 1986؟ / 204. Who scored the 'Goal of the Century' at the 1986 World Cup?",
+    "options": [
+      "دييغو مارادونا / Diego Maradona",
+      "غاري لينكر / Gary Lineker",
+      "خورخي بوروكاگا / Jorge Burruchaga",
+      "مانويل نيجريتي / Manuel Negrete"
+    ],
+    "correct_answer": 0,
+    "difficulty": "متوسط"
+  },
+  {
+    "question": "205. من كان أول شخص يفوز بكأس العالم كلاعب ثم كمدرّب؟ / 205. Who was the first person to win the World Cup both as a player and as a coach?",
+    "options": [
+      "ماريو زاغالو / Mário Zagallo",
+      "فرانز بيكنباور / Franz Beckenbauer",
+      "دييغو مارادونا / Diego Maradona",
+      "ديشامب / Didier Deschamps"
+    ],
+    "correct_answer": 0,
+    "difficulty": "متوسط"
+  },
+  {
+    "question": "206. من فاز بكأس العالم 2014؟ / 206. Who won the 2014 FIFA World Cup?",
+    "options": [
+      "ألمانيا / Germany",
+      "الأرجنتين / Argentina",
+      "هولندا / Netherlands",
+      "البرازيل / Brazil"
+    ],
+    "correct_answer": 0,
+    "difficulty": "سهل"
+  },
+  {
+    "question": "207. من صاحب الرقم القياسي لأكبر عدد من الأهداف في دورة واحدة من كأس العالم (13 هدفًا)؟ / 207. Who holds the record for most goals in a single World Cup tournament (13 goals)?",
+    "options": [
+      "جست فونتين / Just Fontaine",
+      "جيرد مولر / Gerd Müller",
+      "رونالدو (البرازيل) / Ronaldo (Brazil)",
+      "ميروسلاف كلوزه / Miroslav Klose"
+    ],
+    "correct_answer": 0,
+    "difficulty": "متوسط"
+  },
+  {
+    "question": "208. أي نهائي في كأس العالم كان الأول الذي حُسم بركلات الترجيح؟ / 208. Which World Cup final was the first to be decided by a penalty shootout?",
+    "options": [
+      "1994 (البرازيل ضد إيطاليا) / 1994 (Brazil vs Italy)",
+      "2006 (إيطاليا ضد فرنسا) / 2006 (Italy vs France)",
+      "1986 (الأرجنتين ضد ألمانيا الغربية) / 1986 (Argentina vs West Germany)",
+      "1990 (ألمانيا الغربية ضد الأرجنتين) / 1990 (West Germany vs Argentina)"
+    ],
+    "correct_answer": 0,
+    "difficulty": "متوسط"
+  },
+  {
+    "question": "209. من سجّل هدف الفوز في نهائي كأس العالم 2010؟ / 209. Who scored the winning goal in the 2010 World Cup final?",
+    "options": [
+      "أندريس إنييستا / Andrés Iniesta",
+      "تشافي هيرنانديز / Xavi Hernández",
+      "ديفيد فيا / David Villa",
+      "فرناندو توريس / Fernando Torres"
+    ],
+    "correct_answer": 0,
+    "difficulty": "متوسط"
+  },
+  {
+    "question": "210. من حصل على جائزة الكرة الذهبية (أفضل لاعب) في كأس العالم 2014؟ / 210. Who won the Golden Ball (best player) at the 2014 World Cup?",
+    "options": [
+      "ليونيل ميسي / Lionel Messi",
+      "توماس مولر / Thomas Müller",
+      "خيمس رودريغيز / James Rodríguez",
+      "نيمار / Neymar"
+    ],
+    "correct_answer": 0,
+    "difficulty": "متوسط"
+  },
+  {
+    "question": "211. من هو أصغر لاعب فاز بكأس العالم فريقياً (عمره 17)؟ / 211. Who was the youngest player to win the World Cup (at age 17)?",
+    "options": [
+      "بيليه / Pelé",
+      "مارادونا / Diego Maradona",
+      "كيليان مبابي / Kylian Mbappé",
+      "روماريو / Romário"
+    ],
+    "correct_answer": 0,
+    "difficulty": "سهل"
+  },
+  {
+    "question": "212. في أي ملعب أُقيمت مباراة نهائي كأس العالم 2014؟ / 212. At which stadium was the 2014 World Cup final played?",
+    "options": [
+      "ماراكانا (ريو دي جانيرو) / Maracanã (Rio de Janeiro)",
+      "مينيراو (بيلو هوريزونتي) / Mineirão (Belo Horizonte)",
+      "استاديو ناشيونال (برازيليا) / Estádio Nacional (Brasília)",
+      "أرينا كورينثيانز (ساو باولو) / Arena Corinthians (São Paulo)"
+    ],
+    "correct_answer": 0,
+    "difficulty": "متوسط"
+  },
+  {
+    "question": "213. من سجل الهاتريك في نهائي كأس العالم 1966؟ / 213. Who scored a hat-trick in the 1966 World Cup final?",
+    "options": [
+      "جيف هيرست / Geoff Hurst",
+      "بوبي تشارلتون / Bobby Charlton",
+      "إوزيبيو / Eusébio",
+      "فرانز بيكنباور / Franz Beckenbauer"
+    ],
+    "correct_answer": 0,
+    "difficulty": "متوسط"
+  },
+  {
+    "question": "214. من فاز بكأس العالم 1990؟ / 214. Who won the 1990 FIFA World Cup?",
+    "options": [
+      "ألمانيا الغربية / West Germany",
+      "البرازيل / Brazil",
+      "الأرجنتين / Argentina",
+      "إيطاليا / Italy"
+    ],
+    "correct_answer": 0,
+    "difficulty": "متوسط"
+  },
+  {
+    "question": "215. من فاز بأول بطولة لكأس العالم عام 1930؟ / 215. Which team won the first FIFA World Cup in 1930?",
+    "options": [
+      "أوروغواي / Uruguay",
+      "الأرجنتين / Argentina",
+      "البرازيل / Brazil",
+      "إيطاليا / Italy"
+    ],
+    "correct_answer": 0,
+    "difficulty": "سهل"
+  },
+  {
+    "question": "216. من سجل أسرع هدف في تاريخ نهائيات كأس العالم (11 ثانية)؟ / 216. Who scored the fastest goal in World Cup finals history (11 seconds)?",
+    "options": [
+      "هاكان شوكور / Hakan Şükür",
+      "كلينت ديمبسي / Clint Dempsey",
+      "لاسلو كيش / László Kiss",
+      "يوهان نيسكينز / Johan Neeskens"
+    ],
+    "correct_answer": 0,
+    "difficulty": "متوسط"
+  },
+  {
+    "question": "217. أي دولة شاركت في جميع نسخ كأس العالم حتى الآن؟ / 217. Which country has appeared in every FIFA World Cup tournament to date?",
+    "options": [
+      "البرازيل / Brazil",
+      "ألمانيا / Germany",
+      "الأرجنتين / Argentina",
+      "إيطاليا / Italy"
+    ],
+    "correct_answer": 0,
+    "difficulty": "سهل"
+  },
+  {
+    "question": "218. أي دولة استضافت كأس العالم عام 1958؟ / 218. Which country hosted the 1958 FIFA World Cup?",
+    "options": [
+      "السويد / Sweden",
+      "البرازيل / Brazil",
+      "المكسيك / Mexico",
+      "سويسرا / Switzerland"
+    ],
+    "correct_answer": 0,
+    "difficulty": "متوسط"
+  },
+  {
+    "question": "219. من سجل خمسة أهداف في مباراة واحدة في كأس العالم 1994؟ / 219. Who scored five goals in a single World Cup match in 1994?",
+    "options": [
+      "أوليك سالينكو / Oleg Salenko",
+      "غابرييل باتيستوتا / Gabriel Batistuta",
+      "رونالدو (البرازيل) / Ronaldo (Brazil)",
+      "ميروسلاف كلوزه / Miroslav Klose"
+    ],
+    "correct_answer": 0,
+    "difficulty": "متوسط"
+  },
+  {
+    "question": "220. من فاز بكأس العالم 2002؟ / 220. Who won the 2002 FIFA World Cup?",
+    "options": [
+      "البرازيل / Brazil",
+      "ألمانيا / Germany",
+      "تركيا / Turkey",
+      "كوريا الجنوبية / South Korea"
+    ],
+    "correct_answer": 0,
+    "difficulty": "سهل"
+  },
+  {
+    "question": "221. من كان هداف كأس العالم 1998؟ / 221. Who was the top scorer at the 1998 FIFA World Cup?",
+    "options": [
+      "دافور شوكر / Davor Šuker",
+      "رونالدو (البرازيل) / Ronaldo (Brazil)",
+      "ديفيد تريزيه / Christian Vieri",
+      "تييري هنري / Thierry Henry"
+    ],
+    "correct_answer": 0,
+    "difficulty": "متوسط"
+  },
+  {
+    "question": "222. أي دولة استضافت كأس العالم 1982؟ / 222. Which country hosted the 1982 FIFA World Cup?",
+    "options": [
+      "إسبانيا / Spain",
+      "المكسيك / Mexico",
+      "الأرجنتين / Argentina",
+      "المغرب / Morocco"
+    ],
+    "correct_answer": 0,
+    "difficulty": "متوسط"
+  },
+  {
+    "question": "223. من حصل على جائزة أفضل لاعب في كأس العالم 1982؟ / 223. Who won the Best Player award at the 1982 World Cup?",
+    "options": [
+      "باولو روسي / Paolo Rossi",
+      "ميشيل بلاتيني / Michel Platini",
+      "ماركو فان باستن / Marco van Basten",
+      "مارادونا / Diego Maradona"
+    ],
+    "correct_answer": 0,
+    "difficulty": "متوسط"
+  },
+  {
+    "question": "224. أي دولة فازت بكأس العالم لعامي 1958 و1962 على التوالي؟ / 224. Which country won the World Cup in both 1958 and 1962?",
+    "options": [
+      "البرازيل / Brazil",
+      "ألمانيا / Germany",
+      "إيطاليا / Italy",
+      "الأرجنتين / Argentina"
+    ],
+    "correct_answer": 0,
+    "difficulty": "سهل"
+  },
+  {
+    "question": "225. أي لاعب طُرد بعد توجيه ضربة رأس (Headbutt) في نهائي كأس العالم 2006؟ / 225. Which player was sent off for headbutting in the 2006 World Cup final?",
+    "options": [
+      "زين الدين زيدان / Zinedine Zidane",
+      "ماركو ماتيرازي / Marco Materazzi",
+      "فابيو كانافارو / Fabio Cannavaro",
+      "جيلبرتو سيلفا / Gilberto Silva"
+    ],
+    "correct_answer": 0,
+    "difficulty": "متوسط"
+  },
+  {
+    "question": "226. من كان مدرب إسبانيا عندما فازت بكأس العالم 2010؟ / 226. Who was the coach of Spain when they won the 2010 World Cup?",
+    "options": [
+      "فينسنتي ديل بوسكي / Vicente del Bosque",
+      "لويس أراجونيس / Luis Aragonés",
+      "فينشنزو مونتيلا / Vincenzo Montella",
+      "فابيو كابيلو / Fabio Capello"
+    ],
+    "correct_answer": 0,
+    "difficulty": "متوسط"
+  },
+  {
+    "question": "227. من فاز بجائزة الحذاء الذهبي في كأس العالم 2010؟ / 227. Who won the Golden Boot at the 2010 World Cup?",
+    "options": [
+      "توماس مولر / Thomas Müller",
+      "دييغو فورلان / Diego Forlán",
+      "ولفغانغ بوديسكوغ / Wesley Sneijder",
+      "واين روني / Wayne Rooney"
+    ],
+    "correct_answer": 0,
+    "difficulty": "متوسط"
+  },
+  {
+    "question": "228. من فاز بكأس العالم 1998؟ / 228. Who won the 1998 FIFA World Cup?",
+    "options": [
+      "فرنسا / France",
+      "البرازيل / Brazil",
+      "إيطاليا / Italy",
+      "كرواتيا / Croatia"
+    ],
+    "correct_answer": 0,
+    "difficulty": "سهل"
+  },
+  {
+    "question": "229. من احتل المركز الثالث في كأس العالم 2018؟ / 229. Who finished third at the 2018 World Cup?",
+    "options": [
+      "بلجيكا / Belgium",
+      "الإنجليزية / England",
+      "فرنسا / France",
+      "كرواتيا / Croatia"
+    ],
+    "correct_answer": 0,
+    "difficulty": "متوسط"
+  },
+  {
+    "question": "230. ما اللقب الشائع لمنتخب البرازيل الوطني؟ / 230. What is the common nickname of the Brazil national team?",
+    "options": [
+      "سيليساو (Seleção) / Seleção (The Seleção)",
+      "الأسود / The Lions",
+      "الماكينات / Die Mannschaft",
+      "الأزوري / Azzurri"
+    ],
+    "correct_answer": 0,
+    "difficulty": "سهل"
+  },
+  {
+    "question": "231. أي بطولة كأس عالم كانت الأولى التي ضمت 32 منتخبًا؟ / 231. Which World Cup was the first to feature 32 teams?",
+    "options": [
+      "1998 / 1998",
+      "1994 / 1994",
+      "2002 / 2002",
+      "1990 / 1990"
+    ],
+    "correct_answer": 0,
+    "difficulty": "متوسط"
+  },
+  {
+    "question": "232. من فاز بجائزة الحذاء الذهبي في كأس العالم 2006؟ / 232. Who won the Golden Boot at the 2006 World Cup?",
+    "options": [
+      "ميروسلاف كلوزه / Miroslav Klose",
+      "رونالدو (البرازيل) / Ronaldo (Brazil)",
+      "زوائدين زيدان / Zinedine Zidane",
+      "تييري هنري / Thierry Henry"
+    ],
+    "correct_answer": 0,
+    "difficulty": "متوسط"
+  },
+  {
+    "question": "233. أي دولة استضافت كأس العالم 2006؟ / 233. Which country hosted the 2006 FIFA World Cup?",
+    "options": [
+      "ألمانيا / Germany",
+      "اليابان وكوريا الجنوبية / Japan & South Korea",
+      "جنوب أفريقيا / South Africa",
+      "البرازيل / Brazil"
+    ],
+    "correct_answer": 0,
+    "difficulty": "سهل"
+  },
+  {
+    "question": "234. من فاز بكأس العالم 1934؟ / 234. Who won the 1934 FIFA World Cup?",
+    "options": [
+      "إيطاليا / Italy",
+      "أوروغواي / Uruguay",
+      "إسبانيا / Spain",
+      "ألمانيا / Germany"
+    ],
+    "correct_answer": 0,
+    "difficulty": "سهل"
+  },
+  {
+    "question": "235. من ارتدى القميص رقم 10 للأرجنتين في كأس العالم 1986؟ / 235. Who wore the number 10 shirt for Argentina at the 1986 World Cup?",
+    "options": [
+      "دييغو مارادونا / Diego Maradona",
+      "ماريو كيمبس / Mario Kempes",
+      "ليونيل ميسي / Lionel Messi",
+      "داريو كنت / Claudio Caniggia"
+    ],
+    "correct_answer": 0,
+    "difficulty": "سهل"
+  },
+  {
+    "question": "236. أي دولة استضافت كأس العالم 2018؟ / 236. Which country hosted the 2018 FIFA World Cup?",
+    "options": [
+      "روسيا / Russia",
+      "قطر / Qatar",
+      "جنوب أفريقيا / South Africa",
+      "البرازيل / Brazil"
+    ],
+    "correct_answer": 0,
+    "difficulty": "سهل"
+  },
+  {
+    "question": "أي منتخب فاز بأكبر عدد من بطولات كأس العالم FIFA؟ / Which national team has won the most FIFA World Cup tournaments?",
+    "options": [
+      "البرازيل / Brazil",
+      "ألمانيا / Germany",
+      "إيطاليا / Italy",
+      "الأرجنتين / Argentina"
+    ],
+    "correct_answer": 0,
+    "difficulty": "سهل"
+  },
+  {
+    "question": "من الذي سجّل هدف \"يد الله\" الشهير في كأس العالم 1986؟ / Who scored the famous 'Hand of God' goal in the 1986 World Cup?",
+    "options": [
+      "دييغو مارادونا / Diego Maradona",
+      "بيليه / Pelé",
+      "زين الدين زيدان / Zinedine Zidane",
+      "رونالدو نازاريو / Ronaldo Nazário"
+    ],
+    "correct_answer": 0,
+    "difficulty": "متوسط"
+  },
+  {
+    "question": "أي دولة استضافت كأس العالم 2018؟ / Which country hosted the 2018 FIFA World Cup?",
+    "options": [
+      "روسيا / Russia",
+      "البرازيل / Brazil",
+      "فرنسا / France",
+      "جنوب أفريقيا / South Africa"
+    ],
+    "correct_answer": 0,
+    "difficulty": "سهل"
+  },
+  {
+    "question": "من هو هدّاف كأس العالم التاريخي بأكثر عدد من الأهداف (16 هدفاً)؟ / Who is the all-time top scorer in FIFA World Cup history with 16 goals?",
+    "options": [
+      "ميروسلاف كلوزه / Miroslav Klose",
+      "رونالدو (البرازيلي) / Ronaldo (Brazil)",
+      "جورج بست / Geoff Hurst",
+      "غاريث بيل / Gareth Bale"
+    ],
+    "correct_answer": 0,
+    "difficulty": "متوسط"
+  },
+  {
+    "question": "أي منتخب فاز بأول نسخة من كأس العالم عام 1930؟ / Which national team won the first FIFA World Cup in 1930?",
+    "options": [
+      "أوروغواي / Uruguay",
+      "الأرجنتين / Argentina",
+      "البرازيل / Brazil",
+      "إيطاليا / Italy"
+    ],
+    "correct_answer": 0,
+    "difficulty": "سهل"
+  },
+  {
+    "question": "من هو اللاعب الوحيد الذي فاز بكأس العالم ثلاث مرات كلاعب؟ / Who is the only player to have won the World Cup three times as a player?",
+    "options": [
+      "بيليه / Pelé",
+      "ماركو فان باستن / Marco van Basten",
+      "دييغو مارادونا / Diego Maradona",
+      "زيكو / Zico"
+    ],
+    "correct_answer": 0,
+    "difficulty": "متوسط"
+  },
+  {
+    "question": "من سجّل هدف الفوز في نهائي كأس العالم 1966 الذي انتهى بنتيجة 4-2 بعد الوقت الإضافي؟ / Who scored the winning goal in the 1966 World Cup final that ended 4-2 after extra time?",
+    "options": [
+      "جيف هرست / Geoff Hurst",
+      "بوبي تشارلتون / Bobby Charlton",
+      "تشيستر / Eusebio",
+      "يوهان كرويف / Johan Cruyff"
+    ],
+    "correct_answer": 0,
+    "difficulty": "متوسط"
+  },
+  {
+    "question": "من سجّل أسرع هدف في تاريخ نهائيات كأس العالم (11 ثانية) في 2002؟ / Who scored the fastest goal in World Cup finals history (11 seconds) in 2002?",
+    "options": [
+      "هاكان شوكور / Hakan Şükür",
+      "لويس فيغو / Luis Figo",
+      "دينيس بيركامب / Dennis Bergkamp",
+      "رونالدو / Ronaldo"
+    ],
+    "correct_answer": 0,
+    "difficulty": "متوسط"
+  },
+  {
+    "question": "أي منتخب فاز بكأس العالم 2010 في جنوب أفريقيا؟ / Which national team won the 2010 FIFA World Cup in South Africa?",
+    "options": [
+      "إسبانيا / Spain",
+      "هولندا / Netherlands",
+      "ألمانيا / Germany",
+      "الأوروغواي / Uruguay"
+    ],
+    "correct_answer": 0,
+    "difficulty": "سهل"
+  },
+  {
+    "question": "أي منتخب شارك في جميع نسخ كأس العالم حتى 2018 (ولديه أكبر عدد من المشاركات)؟ / Which national team has participated in every World Cup (having the most appearances) up to 2018?",
+    "options": [
+      "البرازيل / Brazil",
+      "ألمانيا / Germany",
+      "إيطاليا / Italy",
+      "الأرجنتين / Argentina"
+    ],
+    "correct_answer": 0,
+    "difficulty": "متوسط"
+  },
+  {
+    "question": "من أصغر لاعب فاز بكأس العالم (عمره 17 عاماً عام 1958)؟ / Who is the youngest player to win the World Cup (aged 17 in 1958)?",
+    "options": [
+      "بيليه / Pelé",
+      "نيمار / Neymar",
+      "مارادونا / Diego Maradona",
+      "لوكاس / Lukas Podolski"
+    ],
+    "correct_answer": 0,
+    "difficulty": "سهل"
+  },
+  {
+    "question": "أي نسخة من كأس العالم كانت الأولى التي تم فيها استخدام تقنية VAR؟ / Which World Cup edition was the first to use VAR (Video Assistant Referee)?",
+    "options": [
+      "2018 (روسيا) / 2018 (Russia)",
+      "2014 (البرازيل) / 2014 (Brazil)",
+      "2010 (جنوب أفريقيا) / 2010 (South Africa)",
+      "2006 (ألمانيا) / 2006 (Germany)"
+    ],
+    "correct_answer": 0,
+    "difficulty": "متوسط"
+  },
+  {
+    "question": "أي منتخب فاز بكأس العالم 2002 المقام في كوريا الجنوبية واليابان؟ / Which national team won the 2002 FIFA World Cup held in South Korea and Japan?",
+    "options": [
+      "البرازيل / Brazil",
+      "ألمانيا / Germany",
+      "تركيا / Turkey",
+      "إيطاليا / Italy"
+    ],
+    "correct_answer": 0,
+    "difficulty": "سهل"
+  },
+  {
+    "question": "من سجل أكبر عدد من الأهداف في نسخة واحدة من كأس العالم (13 هدفاً في 1958)؟ / Who scored the most goals in a single World Cup tournament (13 goals in 1958)?",
+    "options": [
+      "جاست فونتين / Just Fontaine",
+      "رونالدو البرازيلي / Ronaldo (Brazil)",
+      "غيرد مولر / Gerd Müller",
+      "بيليه / Pelé"
+    ],
+    "correct_answer": 0,
+    "difficulty": "صعب"
+  },
+  {
+    "question": "من سجّل أول هاتريك معتمد رسمياً في تاريخ كأس العالم (1930)؟ / Who scored the first officially recognized World Cup hat-trick (1930)?",
+    "options": [
+      "بيرت باتوناود / Bert Patenaude",
+      "غويليرمو ستابيلي / Guillermo Stábile",
+      "إنزو فرانسيسكي / Enzo Francescoli",
+      "فالنتين فوس / Valentin Roberge"
+    ],
+    "correct_answer": 0,
+    "difficulty": "صعب"
+  },
+  {
+    "question": "أي منتخب هزم البرازيل 7-1 في نصف نهائي كأس العالم 2014؟ / Which national team defeated Brazil 7-1 in the 2014 World Cup semifinal?",
+    "options": [
+      "ألمانيا / Germany",
+      "هولندا / Netherlands",
+      "الأرجنتين / Argentina",
+      "إسبانيا / Spain"
+    ],
+    "correct_answer": 0,
+    "difficulty": "متوسط"
+  },
+  {
+    "question": "أي منتخب فاز بكأس العالم 1998 التي أقيمت في فرنسا؟ / Which team won the 1998 World Cup held in France?",
+    "options": [
+      "فرنسا / France",
+      "البرازيل / Brazil",
+      "كرواتيا / Croatia",
+      "إيطاليا / Italy"
+    ],
+    "correct_answer": 0,
+    "difficulty": "سهل"
+  },
+  {
+    "question": "من حمل رقمُه 10 وسجّل عدداً قياسياً من مبارياته في نهائيات كأس العالم حتى 2022 (26 مباراة)؟ / Which player held the record for most World Cup finals matches played as of 2022 (26 matches)?",
+    "options": [
+      "ليونيل ميسي / Lionel Messi",
+      "لوثار ماتيوس / Lothar Matthäus",
+      "ميروسلاف كلوزه / Miroslav Klose",
+      "كافو / Cafú"
+    ],
+    "correct_answer": 0,
+    "difficulty": "متوسط"
+  },
+  {
+    "question": "أي دولة كانت أول دولة أفريقية تستضيف كأس العالم؟ / Which country was the first African nation to host the FIFA World Cup?",
+    "options": [
+      "جنوب أفريقيا / South Africa",
+      "مصر / Egypt",
+      "الجزائر / Algeria",
+      "المغرب / Morocco"
+    ],
+    "correct_answer": 0,
+    "difficulty": "سهل"
+  },
+  {
+    "question": "من الذي قام بالاعتداء بعملية \"الضرب بالرأس\" على ماركو ماتيراتسي في نهائي 2006؟ / Who headbutted Marco Materazzi in the 2006 World Cup final?",
+    "options": [
+      "زين الدين زيدان / Zinedine Zidane",
+      "ماركو ماتيراتسي / Marco Materazzi",
+      "باولو مالديني / Paolo Maldini",
+      "لوكا توني / Luca Toni"
+    ],
+    "correct_answer": 0,
+    "difficulty": "متوسط"
+  },
+  {
+    "question": "أي بلدان استضافا كأس العالم 2002 بشكل مشترك؟ / Which two countries co-hosted the 2002 FIFA World Cup?",
+    "options": [
+      "كوريا الجنوبية واليابان / South Korea and Japan",
+      "البرازيل والأرجنتين / Brazil and Argentina",
+      "الولايات المتحدة والمكسيك / United States and Mexico",
+      "ألمانيا وفرنسا / Germany and France"
+    ],
+    "correct_answer": 0,
+    "difficulty": "سهل"
+  },
+  {
+    "question": "من سجّل هدف القرن (Goal of the Century) مقابل إنجلترا في 1986؟ / Who scored the 'Goal of the Century' against England in 1986?",
+    "options": [
+      "دييغو مارادونا / Diego Maradona",
+      "غاري لينكر / Gary Lineker",
+      "مارك هيوز / Mark Hughes",
+      "كارل هيثن / Karl-Heinz Rummenigge"
+    ],
+    "correct_answer": 0,
+    "difficulty": "متوسط"
+  },
+  {
+    "question": "أي منتخب سجّل 10 أهداف في مباراة واحدة في كأس العالم 1982؟ / Which national team scored 10 goals in a single World Cup match in 1982?",
+    "options": [
+      "المجر (ضد السلفادور) / Hungary (vs El Salvador)",
+      "البرازيل / Brazil",
+      "ألمانيا الغربية / West Germany",
+      "إيطاليا / Italy"
+    ],
+    "correct_answer": 0,
+    "difficulty": "متوسط"
+  },
+  {
+    "question": "مباراة أي منتخبين عُرفت باسم \"معركة نورمبرغ\" في كأس العالم 2006 بسبب عدد البطاقات؟ / The 'Battle of Nuremberg' in the 2006 World Cup, noted for many bookings, was between which teams?",
+    "options": [
+      "البرتغال وهولندا / Portugal and Netherlands",
+      "ألمانيا وإنجلترا / Germany and England",
+      "إيطاليا وفرنسا / Italy and France",
+      "المكسيك والأرجنتين / Mexico and Argentina"
+    ],
+    "correct_answer": 0,
+    "difficulty": "متوسط"
+  },
+  {
+    "question": "من فاز بجائزة الحذاء الذهبي كأفضل هدّاف في كأس العالم 2014؟ / Who won the Golden Boot as top scorer at the 2014 World Cup?",
+    "options": [
+      "خيمس رودريغيز / James Rodríguez",
+      "ليونيل ميسي / Lionel Messi",
+      "نيمار / Neymar",
+      "توماس مولر / Thomas Müller"
+    ],
+    "correct_answer": 0,
+    "difficulty": "متوسط"
+  },
+  {
+    "question": "أي منتخب فاز بكأس العالم 1994 المقام في الولايات المتحدة؟ / Which team won the 1994 World Cup held in the United States?",
+    "options": [
+      "البرازيل / Brazil",
+      "إيطاليا / Italy",
+      "ألمانيا / Germany",
+      "الأرجنتين / Argentina"
+    ],
+    "correct_answer": 0,
+    "difficulty": "سهل"
+  },
+  {
+    "question": "من سجّل ركلة الجزاء الحاسمة في ضربات الترجيح بنهائي كأس العالم 2006 لصالح إيطاليا؟ / Who scored the decisive penalty in the shootout of the 2006 World Cup final for Italy?",
+    "options": [
+      "فابيو جروسو / Fabio Grosso",
+      "أندريا بيرلو / Andrea Pirlo",
+      "دانييلي دي روسي / Daniele De Rossi",
+      "لوكا توني / Luca Toni"
+    ],
+    "correct_answer": 0,
+    "difficulty": "متوسط"
+  },
+  {
+    "question": "أي منتخب فاز بكأس العالم 1982؟ / Which national team won the 1982 FIFA World Cup?",
+    "options": [
+      "إيطاليا / Italy",
+      "البرازيل / Brazil",
+      "ألمانيا الغربية / West Germany",
+      "الأرجنتين / Argentina"
+    ],
+    "correct_answer": 0,
+    "difficulty": "سهل"
+  },
+  {
+    "question": "من سجّل هاتريك في مباراة إنجلترا ضد بنما في كأس العالم 2018؟ / Who scored a hat-trick in England's match against Panama at the 2018 World Cup?",
+    "options": [
+      "هاري كين / Harry Kane",
+      "رحيم سترلينغ / Raheem Sterling",
+      "جيسي لينجارد / Jesse Lingard",
+      "جيمي فاردي / Jamie Vardy"
+    ],
+    "correct_answer": 0,
+    "difficulty": "سهل"
+  },
+  {
+    "question": "أي منتخب وصل إلى ثلاث نهائيات لكأس العالم (1974، 1978، 2010) دون الفوز بأي منها؟ / Which national team reached three World Cup finals (1974, 1978, 2010) without winning any?",
+    "options": [
+      "هولندا / Netherlands",
+      "البرتغال / Portugal",
+      "كرواتيا / Croatia",
+      "المكسيك / Mexico"
+    ],
+    "correct_answer": 0,
+    "difficulty": "متوسط"
+  },
+  {
+    "question": "من كان مدرّب منتخب البرازيل الفائز بكأس العالم 1994؟ / Who was the coach of the Brazil team that won the 1994 World Cup?",
+    "options": [
+      "كارلوس ألفيرو بارييرا / Carlos Alberto Parreira",
+      "ماريو زاجالو / Mário Zagallo",
+      "دونغا / Dunga",
+      "لويس فيليبي سكولاري / Luiz Felipe Scolari"
+    ],
+    "correct_answer": 0,
+    "difficulty": "متوسط"
+  },
+  {
+    "question": "ما اسم الملعب الشهير الذي شهد \"ماراكانازو\" وهزيمة البرازيل أمام أوروغواي في 1950؟ / What is the name of the famous stadium that hosted the 'Maracanazo' where Brazil lost to Uruguay in 1950?",
+    "options": [
+      "ماراكانا / Maracanã",
+      "أنفيلد / Anfield",
+      "ويمبلي / Wembley",
+      "أليانز أرينا / Allianz Arena"
+    ],
+    "correct_answer": 0,
+    "difficulty": "متوسط"
+  },
+  {
+    "question": "أي منتخب أفريقي وصل لأول مرة إلى ربع نهائي كأس العالم عام 1990؟ / Which African nation reached the World Cup quarter-finals for the first time in 1990?",
+    "options": [
+      "الكاميرون / Cameroon",
+      "النيجر / Niger",
+      "السنغال / Senegal",
+      "المغرب / Morocco"
+    ],
+    "correct_answer": 0,
+    "difficulty": "متوسط"
+  },
+  {
+    "question": "من هو أصغر من سجّل هدفاً في تاريخ كأس العالم حتى الآن؟ / Who is the youngest player to have scored a goal in FIFA World Cup history?",
+    "options": [
+      "بيليه / Pelé",
+      "نورمان وايتسيد / Norman Whiteside",
+      "بابلو فيدال / Pablo Forlán",
+      "ميشيل سالغادو / Michel Salgado"
+    ],
+    "correct_answer": 0,
+    "difficulty": "متوسط"
+  },
+  {
+    "question": "من سجّل هدفاً بالخطأ (ذاتي) لصالح فرنسا في نهائي كأس العالم 2018؟ / Who scored an own goal that benefited France in the 2018 World Cup final?",
+    "options": [
+      "ماريو ماندزوكيتش / Mario Mandžukić",
+      "لوكا مودريتش / Luka Modrić",
+      "بول بوغبا / Paul Pogba",
+      "كالينتشيو / Kalinić"
+    ],
+    "correct_answer": 0,
+    "difficulty": "متوسط"
+  },
+  {
+    "question": "أي منتخب سجل أكبر عدد من الظهور في نهائيات كأس العالم حتى الآن (أعلى عدد من المشاركات في المباراة النهائية)؟ / Which national team has appeared in the most World Cup finals matches (final appearances) to date?",
+    "options": [
+      "ألمانيا (بما في ذلك ألمانيا الغربية) / Germany (including West Germany)",
+      "البرازيل / Brazil",
+      "إيطاليا / Italy",
+      "الأرجنتين / Argentina"
+    ],
+    "correct_answer": 0,
+    "difficulty": "متوسط"
+  },
+  {
+    "question": "أي دولة استضافت كأس العالم 1970؟ / Which country hosted the 1970 FIFA World Cup?",
+    "options": [
+      "المكسيك / Mexico",
+      "الأوروغواي / Uruguay",
+      "اليابان / Japan",
+      "المغرب / Morocco"
+    ],
+    "correct_answer": 0,
+    "difficulty": "سهل"
+  },
+  {
+    "question": "من هو أحد الأشخاص القلائل الذين فازوا بكأس العالم كلاعب وكمدرّب؟ / Who is one of the few individuals to have won the World Cup both as a player and as a manager?",
+    "options": [
+      "ماريو زاجالو / Mário Zagallo",
+      "دييغو مارادونا / Diego Maradona",
+      "كريستيانو رونالدو / Cristiano Ronaldo",
+      "لويس فيغو / Luis Figo"
+    ],
+    "correct_answer": 0,
+    "difficulty": "متوسط"
+  },
+  {
+    "question": "أي منتخب هزم إسبانيا 5-1 في مرحلة المجموعات بكأس العالم 2014؟ / Which national team defeated Spain 5-1 in the group stage of the 2014 World Cup?",
+    "options": [
+      "هولندا / Netherlands",
+      "ألمانيا / Germany",
+      "تشيلي / Chile",
+      "المكسيك / Mexico"
+    ],
+    "correct_answer": 0,
+    "difficulty": "متوسط"
+  },
+  {
+    "question": "أي منتخب فاز بكأس العالم 1978 التي أقيمت في الأرجنتين؟ / Which national team won the 1978 World Cup held in Argentina?",
+    "options": [
+      "الأرجنتين / Argentina",
+      "هولندا / Netherlands",
+      "إيطاليا / Italy",
+      "البرازيل / Brazil"
+    ],
+    "correct_answer": 0,
+    "difficulty": "سهل"
+  },
+  {
+    "question": "من هو الهداف التاريخي لكأس العالم FIFA؟ / Who is the all-time top scorer in FIFA World Cup history?",
+    "options": [
+      "ميروسلاف كلوزه / Miroslav Klose",
+      "رونالدو (البرازيل) / Ronaldo (Brazil)",
+      "جيرهارت مولر / Gerd Müller",
+      "بيليه / Pelé"
+    ],
+    "correct_answer": 0,
+    "difficulty": "متوسط"
+  },
+  {
+    "question": "أي منتخب فاز بأكبر عدد من بطولات كأس العالم؟ / Which national team has won the most FIFA World Cup titles?",
+    "options": [
+      "البرازيل / Brazil",
+      "ألمانيا / Germany",
+      "إيطاليا / Italy",
+      "الأرجنتين / Argentina"
+    ],
+    "correct_answer": 0,
+    "difficulty": "سهل"
+  },
+  {
+    "question": "من سجل هاتريك في نهائي كأس العالم 1966؟ / Who scored a hat-trick in the 1966 World Cup final?",
+    "options": [
+      "جيف هيرست / Geoff Hurst",
+      "بوبي تشارلتون / Bobby Charlton",
+      "إيسيبيو / Eusébio",
+      "بيليه / Pelé"
+    ],
+    "correct_answer": 0,
+    "difficulty": "متوسط"
+  },
+  {
+    "question": "من فاز بكأس العالم 2018؟ / Who won the 2018 FIFA World Cup?",
+    "options": [
+      "فرنسا / France",
+      "كرواتيا / Croatia",
+      "البرازيل / Brazil",
+      "ألمانيا / Germany"
+    ],
+    "correct_answer": 0,
+    "difficulty": "سهل"
+  },
+  {
+    "question": "من فاز بكأس العالم 2014؟ / Who won the 2014 FIFA World Cup?",
+    "options": [
+      "ألمانيا / Germany",
+      "الأرجنتين / Argentina",
+      "إسبانيا / Spain",
+      "هولندا / Netherlands"
+    ],
+    "correct_answer": 0,
+    "difficulty": "سهل"
+  },
+  {
+    "question": "من فاز بكأس العالم 2010؟ / Who won the 2010 FIFA World Cup?",
+    "options": [
+      "إسبانيا / Spain",
+      "هولندا / Netherlands",
+      "ألمانيا / Germany",
+      "البرازيل / Brazil"
+    ],
+    "correct_answer": 0,
+    "difficulty": "سهل"
+  },
+  {
+    "question": "أين أُقيمت أول نسخة من كأس العالم في 1930؟ / Where was the first FIFA World Cup held in 1930?",
+    "options": [
+      "أوروغواي / Uruguay",
+      "البرازيل / Brazil",
+      "الأرجنتين / Argentina",
+      "فرنسا / France"
+    ],
+    "correct_answer": 0,
+    "difficulty": "سهل"
+  },
+  {
+    "question": "من فاز بجائزة الحذاء الذهبي (الهداف) في كأس العالم 2014؟ / Who won the Golden Boot (top scorer) at the 2014 World Cup?",
+    "options": [
+      "جيمس رودريغيز / James Rodríguez",
+      "توماس مولر / Thomas Müller",
+      "ليونيل ميسي / Lionel Messi",
+      "نيمار / Neymar"
+    ],
+    "correct_answer": 0,
+    "difficulty": "متوسط"
+  },
+  {
+    "question": "من حصل على جائزة الكرة الذهبية أفضل لاعب في كأس العالم 2018؟ / Who won the Golden Ball (best player) at the 2018 World Cup?",
+    "options": [
+      "لوكا مودريتش / Luka Modrić",
+      "إيدن هازارد / Eden Hazard",
+      "كيليان مبابي / Kylian Mbappé",
+      "أنطوان غريزمان / Antoine Griezmann"
+    ],
+    "correct_answer": 0,
+    "difficulty": "متوسط"
+  },
+  {
+    "question": "أي البلدان استضافت كأس العالم 2002؟ / Which countries co-hosted the 2002 FIFA World Cup?",
+    "options": [
+      "اليابان وكوريا الجنوبية / Japan and South Korea",
+      "اليابان / Japan",
+      "كوريا الجنوبية / South Korea",
+      "الصين / China"
+    ],
+    "correct_answer": 0,
+    "difficulty": "متوسط"
+  },
+  {
+    "question": "من سجل أكبر عدد من الأهداف في بطولة واحدة من كأس العالم (13 هدفًا في 1958)؟ / Who scored the most goals in a single World Cup tournament (13 goals in 1958)?",
+    "options": [
+      "جوست فونتين (13 هدفًا، 1958) / Just Fontaine (13 goals, 1958)",
+      "جيرهارت مولر (10) / Gerd Müller (10)",
+      "ميروسلاف كلوزه (مجموع 16) / Miroslav Klose (16 total)",
+      "بيليه / Pelé"
+    ],
+    "correct_answer": 0,
+    "difficulty": "صعب"
+  },
+  {
+    "question": "أي منتخب فاز بكأس العالم عامي 1958 و1962 على التوالي؟ / Which nation won back-to-back World Cups in 1958 and 1962?",
+    "options": [
+      "البرازيل / Brazil",
+      "إيطاليا / Italy",
+      "ألمانيا / Germany",
+      "الأرجنتين / Argentina"
+    ],
+    "correct_answer": 0,
+    "difficulty": "متوسط"
+  },
+  {
+    "question": "من فاز بكأس العالم 1998؟ / Who won the 1998 FIFA World Cup?",
+    "options": [
+      "فرنسا / France",
+      "البرازيل / Brazil",
+      "إيطاليا / Italy",
+      "ألمانيا / Germany"
+    ],
+    "correct_answer": 0,
+    "difficulty": "متوسط"
+  },
+  {
+    "question": "من هو أصغر لاعب سجل هدفًا في تاريخ كأس العالم؟ / Who is the youngest player to score a goal in World Cup history?",
+    "options": [
+      "بيليه / Pelé",
+      "دييغو مارادونا / Diego Maradona",
+      "كليان مبابي / Kylian Mbappé",
+      "رونالدو النازاريّو / Ronaldo Nazário"
+    ],
+    "correct_answer": 0,
+    "difficulty": "سهل"
+  },
+  {
+    "question": "من فاز بجائزة الحذاء الذهبي في كأس العالم 2002؟ / Who won the Golden Boot at the 2002 FIFA World Cup?",
+    "options": [
+      "رونالدو (البرازيل) / Ronaldo (Brazil)",
+      "ميروسلاف كلوزه / Miroslav Klose",
+      "ريوالدو / Rivaldo",
+      "رونالدينيو / Ronaldinho"
+    ],
+    "correct_answer": 0,
+    "difficulty": "متوسط"
+  },
+  {
+    "question": "أي دولة استضافت كأس العالم 2010؟ / Which country hosted the 2010 FIFA World Cup?",
+    "options": [
+      "جنوب أفريقيا / South Africa",
+      "مصر / Egypt",
+      "نيجيريا / Nigeria",
+      "المغرب / Morocco"
+    ],
+    "correct_answer": 0,
+    "difficulty": "سهل"
+  },
+  {
+    "question": "أي منتخب شارك في كافة نسخ كأس العالم منذ بدايتها؟ / Which country has appeared in every FIFA World Cup since its inception?",
+    "options": [
+      "البرازيل / Brazil",
+      "ألمانيا / Germany",
+      "إيطاليا / Italy",
+      "الأرجنتين / Argentina"
+    ],
+    "correct_answer": 0,
+    "difficulty": "متوسط"
+  },
+  {
+    "question": "من سجّل هدف \"يد الله\" الشهير في كأس العالم 1986؟ / Who scored the famous 'Hand of God' goal in the 1986 World Cup?",
+    "options": [
+      "دييغو مارادونا / Diego Maradona",
+      "غاري لينكر / Gary Lineker",
+      "بيليه / Pelé",
+      "زين الدين زيدان / Zinedine Zidane"
+    ],
+    "correct_answer": 0,
+    "difficulty": "سهل"
+  },
+  {
+    "question": "من فاز بكأس العالم 2022؟ / Who won the 2022 FIFA World Cup?",
+    "options": [
+      "الأرجنتين / Argentina",
+      "فرنسا / France",
+      "البرازيل / Brazil",
+      "ألمانيا / Germany"
+    ],
+    "correct_answer": 0,
+    "difficulty": "سهل"
+  },
+  {
+    "question": "في أي عام فازت إسبانيا بأول لقب لها في كأس العالم؟ / In which year did Spain win their first World Cup title?",
+    "options": [
+      "2010 / 2010",
+      "2006 / 2006",
+      "2014 / 2014",
+      "1998 / 1998"
+    ],
+    "correct_answer": 0,
+    "difficulty": "سهل"
+  },
+  {
+    "question": "أي دولة استضافت كأس العالم 1994؟ / Which country hosted the 1994 FIFA World Cup?",
+    "options": [
+      "الولايات المتحدة الأمريكية / United States",
+      "المكسيك / Mexico",
+      "كندا / Canada",
+      "البرازيل / Brazil"
+    ],
+    "correct_answer": 0,
+    "difficulty": "سهل"
+  },
+  {
+    "question": "ما كانت نتيجة مباراة نصف نهائي كأس العالم 2014 بين ألمانيا والبرازيل؟ / What was the score in the 2014 World Cup semifinal between Germany and Brazil?",
+    "options": [
+      "7-1 لصالح ألمانيا / 7-1 to Germany",
+      "5-0 لصالح ألمانيا / 5-0 to Germany",
+      "3-1 لصالح ألمانيا / 3-1 to Germany",
+      "4-2 لصالح ألمانيا / 4-2 to Germany"
+    ],
+    "correct_answer": 0,
+    "difficulty": "سهل"
+  },
+  {
+    "question": "من طُرد في نهائي كأس العالم 2006 بعد حادثة الارتكاز بالرأس؟ / Who was sent off in the 2006 World Cup final for a headbutt incident?",
+    "options": [
+      "زين الدين زيدان / Zinedine Zidane",
+      "ماركو ماتيراتزي / Marco Materazzi",
+      "فابيو كانافارو / Fabio Cannavaro",
+      "أندريا بيرلو / Andrea Pirlo"
+    ],
+    "correct_answer": 0,
+    "difficulty": "سهل"
+  },
+  {
+    "question": "ما هي أكبر نتيجة فوز في مباراة بكأس العالم (فارق الأهداف الأكبر) حتى الآن؟ / What is the largest margin of victory in a FIFA World Cup match to date?",
+    "options": [
+      "المجر 10-1 السلفادور (1982) / Hungary 10-1 El Salvador (1982)",
+      "ألمانيا 8-0 السعودية / Germany 8-0 Saudi Arabia",
+      "اليابان 6-0 / Japan 6-0",
+      "البرازيل 6-0 / Brazil 6-0"
+    ],
+    "correct_answer": 0,
+    "difficulty": "متوسط"
+  },
+  {
+    "question": "في أي نسخة من كأس العالم تم استخدام تقنية حكم الفيديو المساعد (VAR) لأول مرة؟ / In which World Cup edition was the Video Assistant Referee (VAR) used for the first time?",
+    "options": [
+      "2018 / 2018",
+      "2014 / 2014",
+      "2010 / 2010",
+      "2006 / 2006"
+    ],
+    "correct_answer": 0,
+    "difficulty": "سهل"
+  },
+  {
+    "question": "أي منتخب إفريقي وصل إلى دور ربع النهائي لأول مرة في كأس العالم 1990؟ / Which African nation reached the World Cup quarter-finals for the first time in 1990?",
+    "options": [
+      "الكاميرون / Cameroon",
+      "نيجيريا / Nigeria",
+      "السنغال / Senegal",
+      "المغرب / Morocco"
+    ],
+    "correct_answer": 0,
+    "difficulty": "متوسط"
+  },
+  {
+    "question": "من سجل هدف \"قرن القرن\" (هدف القرن) في مباراة إنجلترا ضد الأرجنتين في 1986؟ / Who scored the 'Goal of the Century' against England in 1986?",
+    "options": [
+      "دييغو مارادونا / Diego Maradona",
+      "غاري لينكر / Gary Lineker",
+      "خورخي بوروكاجا / Jorge Burruchaga",
+      "باولو روسي / Paolo Rossi"
+    ],
+    "correct_answer": 0,
+    "difficulty": "متوسط"
+  },
+  {
+    "question": "أي دولة استضافت كأس العالم 1978؟ / Which country hosted the 1978 FIFA World Cup?",
+    "options": [
+      "الأرجنتين / Argentina",
+      "إسبانيا / Spain",
+      "ألمانيا / Germany",
+      "المكسيك / Mexico"
+    ],
+    "correct_answer": 0,
+    "difficulty": "سهل"
+  },
+  {
+    "question": "من اللاعب الوحيد الذي فاز بثلاث بطولات كأس العالم كلاعب؟ / Who is the only player to have won three FIFA World Cups as a player?",
+    "options": [
+      "بيليه / Pelé",
+      "غارينتشا / Garrincha",
+      "كافو / Cafu",
+      "دييغو مارادونا / Diego Maradona"
+    ],
+    "correct_answer": 0,
+    "difficulty": "سهل"
+  },
+  {
+    "question": "من فاز بكأس العالم 1966؟ / Which team won the 1966 FIFA World Cup?",
+    "options": [
+      "إنجلترا / England",
+      "ألمانيا / Germany",
+      "البرازيل / Brazil",
+      "إيطاليا / Italy"
+    ],
+    "correct_answer": 0,
+    "difficulty": "سهل"
+  },
+  {
+    "question": "ما هو ملعب نهائي كأس العالم 2014 في البرازيل؟ / Which stadium hosted the 2014 World Cup final in Brazil?",
+    "options": [
+      "ماراكانا (ريو دي جانيرو) / Maracanã (Rio de Janeiro)",
+      "ويمبلي (لندن) / Wembley (London)",
+      "استاديو آزتيكا (مكسيكو سيتي) / Estadio Azteca (Mexico City)",
+      "ستاد دو فرانس (باريس) / Stade de France (Paris)"
+    ],
+    "correct_answer": 0,
+    "difficulty": "متوسط"
+  },
+  {
+    "question": "من سجّل الهاتريك في نهائي كأس العالم 2022؟ / Who scored a hat-trick in the 2022 World Cup final?",
+    "options": [
+      "كيليان مبابي / Kylian Mbappé",
+      "ليونيل ميسي / Lionel Messi",
+      "أوليفيه جيرو / Olivier Giroud",
+      "أنطوان غريزمان / Antoine Griezmann"
+    ],
+    "correct_answer": 0,
+    "difficulty": "متوسط"
+  },
+  {
+    "question": "ما هو لقب منتخب الأرجنتين الشهير \"الذي يعني الأبيض والأزرق\"؟ / What is the famous nickname of the Argentina national team commonly referring to their colors?",
+    "options": [
+      "لا ألبيسيلستي / La Albiceleste",
+      "السامبا / Samba",
+      "لا روسا / La Rossa",
+      "الأسود الثلاثة / The Three Lions"
+    ],
+    "correct_answer": 0,
+    "difficulty": "سهل"
+  },
+  {
+    "question": "من فاز بجائزة الحذاء الذهبي في كأس العالم 1998؟ / Who won the Golden Boot at the 1998 World Cup?",
+    "options": [
+      "دافور شوكر / Davor Šuker",
+      "رونالدو / Ronaldo",
+      "تييري هنري / Thierry Henry",
+      "غابرييل باتيستوتا / Gabriel Batistuta"
+    ],
+    "correct_answer": 0,
+    "difficulty": "متوسط"
+  },
+  {
+    "question": "في أي مدينة أقيمت مباراة النهائي في أول نسخة لكأس العالم 1930؟ / In which city was the final match of the inaugural 1930 World Cup played?",
+    "options": [
+      "مونتيفيديو / Montevideo",
+      "بوينس آيرس / Buenos Aires",
+      "ريو دي جانيرو / Rio de Janeiro",
+      "سانتياغو / Santiago"
+    ],
+    "correct_answer": 0,
+    "difficulty": "متوسط"
+  },
+  {
+    "question": "من هو أكبر لاعب سناً شارك في مباراة بكأس العالم حتى 2018 (عمر 45)؟ / Who was the oldest player to appear in a World Cup match (aged 45 in 2018)?",
+    "options": [
+      "إسماعيل الحدادري (مصر) / Essam El-Hadary (Egypt)",
+      "روجر ميلا / Roger Milla",
+      "دينو زوف / Dino Zoff",
+      "جيانلويجي بوفون / Gianluigi Buffon"
+    ],
+    "correct_answer": 0,
+    "difficulty": "سهل"
+  },
+  {
+    "question": "ما المنتخب الذي هزم البرازيل في مباراة الـ\"ماراكانازو\" الشهيرة عام 1950؟ / Which team defeated Brazil in the famous 'Maracanazo' match of 1950?",
+    "options": [
+      "أوروغواي / Uruguay",
+      "البرازيل / Brazil",
+      "الأرجنتين / Argentina",
+      "إنجلترا / England"
+    ],
+    "correct_answer": 0,
+    "difficulty": "متوسط"
+  },
+  {
+    "question": "من سجل أسرع هدف في تاريخ كأس العالم (11 ثانية في 2002)؟ / Who scored the fastest goal in World Cup history (11 seconds in 2002)?",
+    "options": [
+      "هاكان شوكور / Hakan Şükür",
+      "بيليه / Pelé",
+      "كليان مبابي / Kylian Mbappé",
+      "ميروسلاف كلوزه / Miroslav Klose"
+    ],
+    "correct_answer": 0,
+    "difficulty": "متوسط"
+  },
+  {
+    "question": "أي دولة استضافت كأس العالم 2018؟ / Which country hosted the 2018 FIFA World Cup?",
+    "options": [
+      "روسيا / Russia",
+      "ألمانيا / Germany",
+      "جنوب أفريقيا / South Africa",
+      "قطر / Qatar"
+    ],
+    "correct_answer": 0,
+    "difficulty": "سهل"
+  },
+  {
+    "question": "أي دولة استضافت كأس العالم مرتين (مثل 1970 و1986)؟ / Which country has hosted the FIFA World Cup twice (for example in 1970 and 1986)?",
+    "options": [
+      "المكسيك / Mexico",
+      "اليابان / Japan",
+      "جنوب أفريقيا / South Africa",
+      "روسيا / Russia"
+    ],
+    "correct_answer": 0,
+    "difficulty": "متوسط"
+  },
+  {
+    "question": "من فاز بكأس العالم 2022؟ / Who won the 2022 FIFA World Cup?",
+    "options": [
+      "الأرجنتين / Argentina",
+      "فرنسا / France",
+      "البرازيل / Brazil",
+      "إسبانيا / Spain"
+    ],
+    "correct_answer": 0,
+    "difficulty": "سهل"
+  },
+  {
+    "question": "من حصل على جائزة الكرة الذهبية (أفضل لاعب) في كأس العالم 2022؟ / Who won the Golden Ball (best player) at the 2022 World Cup?",
+    "options": [
+      "ليونيل ميسي / Lionel Messi",
+      "كيليان مبابي / Kylian Mbappé",
+      "لوكا مودريتش / Luka Modrić",
+      "إميليانو مارتينيز / Emiliano Martínez"
+    ],
+    "correct_answer": 0,
+    "difficulty": "سهل"
+  },
+  {
+    "question": "من يحمل رقمًا قياسيًا في عدد أهداف كأس العالم الإجمالية (حتى 2022)؟ / Who holds the record for the most goals in World Cup history (overall) up to 2022?",
+    "options": [
+      "ميροσلاف كلوزه / Miroslav Klose",
+      "رونالدو (البرازيل) / Ronaldo (Brazil)",
+      "بيليه / Pelé",
+      "جيرد مولر / Gerd Müller"
+    ],
+    "correct_answer": 0,
+    "difficulty": "متوسط"
+  },
+  {
+    "question": "من سجل أكبر عدد من الأهداف في بطولة كأس عالم واحدة (معدل فردي)؟ / Who scored the most goals in a single World Cup tournament?",
+    "options": [
+      "جوست فونتين (13 هدفًا في 1958) / Just Fontaine (13 in 1958)",
+      "شاندور كوشيس (11) / Sándor Kocsis (11)",
+      "جيرد مولر (10) / Gerd Müller (10)",
+      "إوزيبيو (9) / Eusébio (9)"
+    ],
+    "correct_answer": 0,
+    "difficulty": "صعب"
+  },
+  {
+    "question": "أي دولة فازت بأكبر عدد من بطولات كأس العالم؟ / Which nation has won the most FIFA World Cups?",
+    "options": [
+      "البرازيل (5 ألقاب) / Brazil (5 titles)",
+      "ألمانيا / Germany",
+      "إيطاليا / Italy",
+      "الأرجنتين / Argentina"
+    ],
+    "correct_answer": 0,
+    "difficulty": "سهل"
+  },
+  {
+    "question": "من فاز بكأس العالم لأول مرة في عام 1930؟ / Who won the first FIFA World Cup in 1930?",
+    "options": [
+      "أوروغواي / Uruguay",
+      "الأرجنتين / Argentina",
+      "البرازيل / Brazil",
+      "إيطاليا / Italy"
+    ],
+    "correct_answer": 0,
+    "difficulty": "سهل"
+  },
+  {
+    "question": "أي دولة استضافت كأس العالم لأول مرة في قارة إفريقيا؟ / Which country hosted the World Cup for the first time in Africa?",
+    "options": [
+      "جنوب إفريقيا (2010) / South Africa (2010)",
+      "مصر / Egypt",
+      "المغرب / Morocco",
+      "نيجيريا / Nigeria"
+    ],
+    "correct_answer": 0,
+    "difficulty": "متوسط"
+  },
+  {
+    "question": "أي دولتين استضافتا كأس العالم معًا في عام 2002؟ / Which two countries co-hosted the 2002 World Cup?",
+    "options": [
+      "اليابان وكوريا الجنوبية / Japan and South Korea",
+      "الولايات المتحدة وكندا / United States and Canada",
+      "ألمانيا وفرنسا / Germany and France",
+      "إيطاليا وإسبانيا / Italy and Spain"
+    ],
+    "correct_answer": 0,
+    "difficulty": "سهل"
+  },
+  {
+    "question": "في أي نسخة من كأس العالم استُخدم نظام حكم الفيديو المساعد (VAR) للمرة الأولى؟ / In which World Cup was VAR (Video Assistant Referee) used for the first time?",
+    "options": [
+      "2018 (روسيا) / 2018 (Russia)",
+      "2014 (البرازيل) / 2014 (Brazil)",
+      "2022 (قطر) / 2022 (Qatar)",
+      "2006 (ألمانيا) / 2006 (Germany)"
+    ],
+    "correct_answer": 0,
+    "difficulty": "متوسط"
+  },
+  {
+    "question": "من سجل ثلاثية (هاتريك) في نهائي كأس العالم 1966؟ / Who scored a hat-trick in the 1966 World Cup final?",
+    "options": [
+      "جيف هيرست / Geoff Hurst",
+      "بيليه / Pelé",
+      "بوبي تشارلتون / Bobby Charlton",
+      "إوزيبيو / Eusébio"
+    ],
+    "correct_answer": 0,
+    "difficulty": "متوسط"
+  },
+  {
+    "question": "أي لاعب طُرد بعد توجيه ضربة رأس في نهائي كأس العالم 2006؟ / Which player was sent off for a headbutt in the 2006 World Cup final?",
+    "options": [
+      "زين الدين زيدان / Zinedine Zidane",
+      "ماركو ماتيرازي / Marco Materazzi",
+      "فابيو كانافارو / Fabio Cannavaro",
+      "أندريا بيرلو / Andrea Pirlo"
+    ],
+    "correct_answer": 0,
+    "difficulty": "سهل"
+  },
+  {
+    "question": "ما الذي يُشير إليه مصطلح \"ماراكانازو\" في تاريخ كأس العالم؟ / What does the term \"Maracanazo\" refer to in World Cup history?",
+    "options": [
+      "هزيمة البرازيل المفاجئة أمام أوروغواي في 1950 / Uruguay's shock win over Brazil in 1950",
+      "فوز البرازيل على أوروغواي في 1950 / Brazil's win over Uruguay in 1950",
+      "مباراة الأرجنتين ضد إنجلترا 1986 / Argentina vs England 1986 match",
+      "نهائي إيطاليا ضد ألمانيا 1982 / Italy vs West Germany 1982 final"
+    ],
+    "correct_answer": 0,
+    "difficulty": "متوسط"
+  },
+  {
+    "question": "من هو أصغر لاعب سجّل هدفًا في تاريخ نهائيات كأس العالم؟ / Who is the youngest player to score a goal in World Cup finals history?",
+    "options": [
+      "بيليه / Pelé",
+      "كيليان مبابي / Kylian Mbappé",
+      "ماريك هامشيك / Marek Hamšík",
+      "نيمار / Neymar"
+    ],
+    "correct_answer": 0,
+    "difficulty": "صعب"
+  },
+  {
+    "question": "من يعد أكبر لاعب سجّل هدفًا في كأس العالم؟ / Who is the oldest player to score a goal in the World Cup?",
+    "options": [
+      "روجر ميلا / Roger Milla",
+      "دينو زوف / Dino Zoff",
+      "ميرو كلوْزِه / Miroslav Klose",
+      "ديفيد بيكام / David Beckham"
+    ],
+    "correct_answer": 0,
+    "difficulty": "صعب"
+  },
+  {
+    "question": "أي لاعب سجل خمسة أهداف في مباراة واحدة في كأس العالم 1994؟ / Which player scored five goals in a single World Cup match in 1994?",
+    "options": [
+      "أوليج سالينكو / Oleg Salenko",
+      "روجر ميلا / Roger Milla",
+      "غابرييل باتيستوتا / Gabriel Batistuta",
+      "رونالدو (البرازيل) / Ronaldo (Brazil)"
+    ],
+    "correct_answer": 0,
+    "difficulty": "متوسط"
+  },
+  {
+    "question": "ما هي المباراة التي سجّلت أكبر فوز بفارق أهداف في تاريخ كأس العالم؟ / Which match recorded the largest winning margin in World Cup history?",
+    "options": [
+      "المجر 10–1 السلفادور (1982) / Hungary 10–1 El Salvador (1982)",
+      "البرازيل 1–7 ألمانيا (2014) / Brazil 1–7 Germany (2014)",
+      "ألمانيا 7–1 البرازيل (2014) / Germany 7–1 Brazil (2014)",
+      "النمسا 7–5 سويسرا (1954) / Austria 7–5 Switzerland (1954)"
+    ],
+    "correct_answer": 0,
+    "difficulty": "سهل"
+  },
+  {
+    "question": "ما هي المباراة التي شهدت أكبر عدد من الأهداف في مباراة واحدة في تاريخ كأس العالم؟ / Which match saw the highest total number of goals in a single World Cup game?",
+    "options": [
+      "النمسا 7–5 سويسرا (1954) / Austria 7–5 Switzerland (1954)",
+      "المجر 10–1 السلفادور (1982) / Hungary 10–1 El Salvador (1982)",
+      "البرازيل 1–7 ألمانيا (2014) / Brazil 1–7 Germany (2014)",
+      "ألمانيا 4–3 سويسرا (1954) / Germany 4–3 Switzerland (1954)"
+    ],
+    "correct_answer": 0,
+    "difficulty": "متوسط"
+  },
+  {
+    "question": "أي دولة استضافت كأس العالم 1966؟ / Which country hosted the 1966 World Cup?",
+    "options": [
+      "إنجلترا / England",
+      "ألمانيا / Germany",
+      "المكسيك / Mexico",
+      "إيطاليا / Italy"
+    ],
+    "correct_answer": 0,
+    "difficulty": "سهل"
+  },
+  {
+    "question": "أي من هؤلاء فاز بكأس العالم كلاعب ثم كمدرب؟ / Which of these individuals has won the World Cup both as a player and as a manager?",
+    "options": [
+      "فرانز بيكنباور / Franz Beckenbauer",
+      "بيليه / Pelé",
+      "ليونيل ميسي / Lionel Messi",
+      "كريستيانو رونالدو / Cristiano Ronaldo"
+    ],
+    "correct_answer": 0,
+    "difficulty": "متوسط"
+  },
+  {
+    "question": "من سجّل هدف \"يد الله\" الشهير في مونديال 1986؟ / Who scored the famous 'Hand of God' goal in the 1986 World Cup?",
+    "options": [
+      "دييغو مارادونا / Diego Maradona",
+      "غاري لاينكر / Gary Lineker",
+      "ميشيل بلاتيني / Michel Platini",
+      "دييغو فورلان / Diego Forlán"
+    ],
+    "correct_answer": 0,
+    "difficulty": "سهل"
+  },
+  {
+    "question": "من فاز بالحذاء الذهبي (هداف البطولة) في كأس العالم 2018؟ / Who won the Golden Boot (top scorer) at the 2018 World Cup?",
+    "options": [
+      "هاري كين / Harry Kane",
+      "كيليان مبابي / Kylian Mbappé",
+      "ليونيل ميسي / Lionel Messi",
+      "كريستيانو رونالدو / Cristiano Ronaldo"
+    ],
+    "correct_answer": 0,
+    "difficulty": "سهل"
+  },
+  {
+    "question": "أي دولة دافعت عن لقب كأس العالم بفوزها في 1934 و1938؟ / Which country successfully defended the World Cup by winning in 1934 and 1938?",
+    "options": [
+      "إيطاليا / Italy",
+      "أوروغواي / Uruguay",
+      "البرازيل / Brazil",
+      "ألمانيا / Germany"
+    ],
+    "correct_answer": 0,
+    "difficulty": "متوسط"
+  },
+  {
+    "question": "من يحمل رقمًا قياسيًا لأكبر عدد من المباريات في نهائيات كأس العالم حتى نسخة 2022؟ / Who holds the record for the most World Cup match appearances up to 2022?",
+    "options": [
+      "ليونيل ميسي / Lionel Messi",
+      "لوثار ماتيوس / Lothar Matthäus",
+      "كافو / Cafu",
+      "ميروسلاف كلوزه / Miroslav Klose"
+    ],
+    "correct_answer": 0,
+    "difficulty": "متوسط"
+  },
+  {
+    "question": "أي دولة استضافت كأس العالم 1950؟ / Which country hosted the 1950 World Cup?",
+    "options": [
+      "البرازيل / Brazil",
+      "أوروغواي / Uruguay",
+      "إيطاليا / Italy",
+      "فرنسا / France"
+    ],
+    "correct_answer": 0,
+    "difficulty": "سهل"
+  },
+  {
+    "question": "من سجّل هدف الفوز في نهائي كأس العالم 2014؟ / Who scored the winning goal in the 2014 World Cup final?",
+    "options": [
+      "ماريو غوتزه / Mario Götze",
+      "ليونيل ميسي / Lionel Messi",
+      "نيمار / Neymar",
+      "غونزالو هيغواين / Gonzalo Higuaín"
+    ],
+    "correct_answer": 0,
+    "difficulty": "متوسط"
+  },
+  {
+    "question": "أي دولة استضافت كأس العالم 1990؟ / Which country hosted the 1990 World Cup?",
+    "options": [
+      "إيطاليا / Italy",
+      "إسبانيا / Spain",
+      "الولايات المتحدة / United States",
+      "إنجلترا / England"
+    ],
+    "correct_answer": 0,
+    "difficulty": "سهل"
+  },
+  {
+    "question": "في أي سنة حُسم نهائي كأس العالم لأول مرة بركلات الترجيح؟ / In which year was the World Cup final decided by a penalty shootout for the first time?",
+    "options": [
+      "1994 / 1994",
+      "1974 / 1974",
+      "2006 / 2006",
+      "1986 / 1986"
+    ],
+    "correct_answer": 0,
+    "difficulty": "متوسط"
+  },
+  {
+    "question": "أي مباراة شهدت هدفين شهيرين: \"يد الله\" و\"هدف القرن\"؟ / Which match featured both the 'Hand of God' and the 'Goal of the Century'?",
+    "options": [
+      "إنجلترا ضد الأرجنتين (1986) / England vs Argentina (1986)",
+      "البرازيل ضد ألمانيا (2014) / Brazil vs Germany (2014)",
+      "فرنسا ضد البرازيل (1998) / France vs Brazil (1998)",
+      "ألمانيا ضد المجر (1954) / Germany vs Hungary (1954)"
+    ],
+    "correct_answer": 0,
+    "difficulty": "متوسط"
+  },
+  {
+    "question": "من فاز بالحذاء الذهبي في كأس العالم 2006؟ / Who won the Golden Boot at the 2006 World Cup?",
+    "options": [
+      "ميروسلاف كلوزه / Miroslav Klose",
+      "رونالدو (البرازيل) / Ronaldo (Brazil)",
+      "ثييري هنري / Thierry Henry",
+      "زين الدين زيدان / Zinedine Zidane"
+    ],
+    "correct_answer": 0,
+    "difficulty": "متوسط"
+  },
+  {
+    "question": "من أقصى إنجلترا من نصف نهائي كأس العالم 2018؟ / Who knocked England out of the 2018 World Cup in the semifinals?",
+    "options": [
+      "كرواتيا / Croatia",
+      "فرنسا / France",
+      "بلجيكا / Belgium",
+      "السويد / Sweden"
+    ],
+    "correct_answer": 0,
+    "difficulty": "سهل"
+  },
+  {
+    "question": "أي ملعب استضاف نهائي كأس العالم 1966؟ / Which stadium hosted the 1966 World Cup final?",
+    "options": [
+      "ويمبلي / Wembley",
+      "إستاديو أزتيكا / Estadio Azteca",
+      "ماراكانا / Maracanã",
+      "ستاديو الأولمبيكو / Stadio Olimpico"
+    ],
+    "correct_answer": 0,
+    "difficulty": "متوسط"
+  },
+  {
+    "question": "أي فريق هزم البرازيل 7–1 في نصف نهائي كأس العالم 2014؟ / Which team defeated Brazil 7–1 in the 2014 World Cup semifinal?",
+    "options": [
+      "ألمانيا / Germany",
+      "هولندا / Netherlands",
+      "إسبانيا / Spain",
+      "الأرجنتين / Argentina"
+    ],
+    "correct_answer": 0,
+    "difficulty": "سهل"
+  },
+  {
+    "question": "أي دولة شاركت في جميع نسخ كأس العالم منذ بدايته؟ / Which country has appeared in every World Cup since the tournament began?",
+    "options": [
+      "البرازيل / Brazil",
+      "ألمانيا / Germany",
+      "الأرجنتين / Argentina",
+      "فرنسا / France"
+    ],
+    "correct_answer": 0,
+    "difficulty": "سهل"
+  },
+  {
+    "question": "أي دولة استضافت كأس العالم 2018؟ / Which country hosted the 2018 World Cup?",
+    "options": [
+      "روسيا / Russia",
+      "جنوب إفريقيا / South Africa",
+      "قطر / Qatar",
+      "ألمانيا / Germany"
+    ],
+    "correct_answer": 0,
+    "difficulty": "سهل"
+  },
+  {
+    "question": "من انتصر في \"معجزة برن\" عام 1954 عندما هزم المانيا المجر؟ / Who won the 'Miracle of Bern' in 1954 when West Germany beat Hungary?",
+    "options": [
+      "ألمانيا الغربية / West Germany",
+      "المجر / Hungary",
+      "النمسا / Austria",
+      "سويسرا / Switzerland"
+    ],
+    "correct_answer": 0,
+    "difficulty": "متوسط"
+  },
+  {
+    "question": "من فاز بالحذاء الذهبي في كأس العالم 2014؟ / Who won the Golden Boot at the 2014 World Cup?",
+    "options": [
+      "جيمس رودريغيز / James Rodríguez",
+      "ليونيل ميسي / Lionel Messi",
+      "توماس مولر / Thomas Müller",
+      "نيمار / Neymar"
+    ],
+    "correct_answer": 0,
+    "difficulty": "متوسط"
+  },
+  {
+    "question": "من سجّل هدف الفوز لمنتخب إسبانيا في نهائي كأس العالم 2010؟ / Who scored the winning goal for Spain in the 2010 World Cup final?",
+    "options": [
+      "أندريس إنييستا / Andrés Iniesta",
+      "ديفيد فيا / David Villa",
+      "كارليس بويول / Carles Puyol",
+      "إكر كاسياس / Iker Casillas"
+    ],
+    "correct_answer": 0,
+    "difficulty": "متوسط"
+  },
+  {
+    "question": "أي ثلاث دول ستستضيفان كأس العالم 2026 معًا؟ / Which three countries will co-host the 2026 World Cup?",
+    "options": [
+      "الولايات المتحدة وكندا والمكسيك / United States, Canada, and Mexico",
+      "الولايات المتحدة والبرازيل والمكسيك / United States, Brazil, and Mexico",
+      "كندا والمكسيك والأرجنتين / Canada, Mexico, and Argentina",
+      "إنجلترا واسكتلندا وويلز / England, Scotland, and Wales"
+    ],
+    "correct_answer": 0,
+    "difficulty": "متوسط"
+  },
+  {
+    "question": "من كان مدرب منتخب فرنسا عندما فاز بكأس العالم 2018؟ / Who was the manager of France when they won the 2018 World Cup?",
+    "options": [
+      "ديدييه ديشامب / Didier Deschamps",
+      "زين الدين زيدان / Zinedine Zidane",
+      "لوران بلان / Laurent Blanc",
+      "ريمون دومينيك / Raymond Domenech"
+    ],
+    "correct_answer": 0,
+    "difficulty": "سهل"
+  },
+  {
+    "question": "من فاز بكأس العالم عام 1934؟ / Who won the 1934 FIFA World Cup?",
+    "options": [
+      "إيطاليا / Italy",
+      "أوروغواي / Uruguay",
+      "ألمانيا / Germany",
+      "البرازيل / Brazil"
+    ],
+    "correct_answer": 0,
+    "difficulty": "متوسط"
+  },
+  {
+    "question": "من فاز بكأس العالم 2022؟ / Who won the 2022 FIFA World Cup?",
+    "options": [
+      "الأرجنتين / Argentina",
+      "فرنسا / France",
+      "البرازيل / Brazil",
+      "ألمانيا / Germany"
+    ],
+    "correct_answer": 0,
+    "difficulty": "سهل"
+  },
+  {
+    "question": "من فاز بجائزة الحذاء الذهبي (هداف البطولة) في كأس العالم 2022؟ / Who won the Golden Boot (top scorer) at the 2022 World Cup?",
+    "options": [
+      "كيليان مبابي / Kylian Mbappé",
+      "ليونيل ميسي / Lionel Messi",
+      "هاري كين / Harry Kane",
+      "رافائيل لياو / Raphinha"
+    ],
+    "correct_answer": 0,
+    "difficulty": "متوسط"
+  },
+  {
+    "question": "من يحمل رقم الأهداف الأعلى في تاريخ نهائيات كأس العالم (إجمالي الأهداف)؟ / Who holds the record for most goals in FIFA World Cup history (total goals)?",
+    "options": [
+      "رونالدو (البرازيل) / Ronaldo (Brazil)",
+      "جيرد مولر (ألمانيا) / Gerd Müller (Germany)",
+      "ميْروسلاف كلوزه (ألمانيا) / Miroslav Klose (Germany)",
+      "بيترو بالميرو / Pelé"
+    ],
+    "correct_answer": 2,
+    "difficulty": "متوسط"
+  },
+  {
+    "question": "أي دولة فازت بأكبر عدد من بطولات كأس العالم حتى الآن؟ / Which country has won the most FIFA World Cups to date?",
+    "options": [
+      "الأرجنتين / Argentina",
+      "إيطاليا / Italy",
+      "البرازيل / Brazil",
+      "ألمانيا / Germany"
+    ],
+    "correct_answer": 2,
+    "difficulty": "سهل"
+  },
+  {
+    "question": "من سجل أكبر عدد من الأهداف في بطولة كأس عالم واحدة (نهائيات)؟ / Who scored the most goals in a single World Cup tournament (finals)?",
+    "options": [
+      "جست فونتين (فرنسا) / Just Fontaine (France)",
+      "ميروسلاف كلوزه (ألمانيا) / Miroslav Klose (Germany)",
+      "غوستافو كافينيا / Gerd Müller (Germany)",
+      "أوليج سالينكو (روسيا) / Oleg Salenko (Russia)"
+    ],
+    "correct_answer": 0,
+    "difficulty": "صعب"
+  },
+  {
+    "question": "أي دولة استضافت وفازت بأول كأس عالم في عام 1930؟ / Which country hosted and won the first FIFA World Cup in 1930?",
+    "options": [
+      "الأوروغواي / Uruguay",
+      "الأرجنتين / Argentina",
+      "إيطاليا / Italy",
+      "البرازيل / Brazil"
+    ],
+    "correct_answer": 0,
+    "difficulty": "متوسط"
+  },
+  {
+    "question": "أي دولة شاركت في جميع دورات كأس العالم الرسمية منذ بدايتها؟ / Which country has participated in every FIFA World Cup tournament since its inception?",
+    "options": [
+      "ألمانيا / Germany",
+      "البرازيل / Brazil",
+      "إيطاليا / Italy",
+      "الأرجنتين / Argentina"
+    ],
+    "correct_answer": 1,
+    "difficulty": "متوسط"
+  },
+  {
+    "question": "من سجل أسرع هدف في تاريخ نهائيات كأس العالم (حسب التوقيت من البداية)؟ / Who scored the fastest goal in FIFA World Cup history (from kickoff)?",
+    "options": [
+      "هاكان شوكور / Hakan Şükür",
+      "درينكو كريكاش / Bryan Robson",
+      "بابتيستا / Christian Benteke",
+      "لوكاس بودولسكي / Lucas Podolski"
+    ],
+    "correct_answer": 0,
+    "difficulty": "متوسط"
+  },
+  {
+    "question": "من هو أصغر لاعب سجل هدفًا في تاريخ نهائيات كأس العالم؟ / Who is the youngest player to score a goal in FIFA World Cup finals?",
+    "options": [
+      "بيليه / Pelé",
+      "فرانز بيكنباور / Franz Beckenbauer",
+      "روماريو / Romário",
+      "جيلمينو ستابيل / Guillermo Stábile"
+    ],
+    "correct_answer": 0,
+    "difficulty": "متوسط"
+  },
+  {
+    "question": "من هو أكبر لاعب شارك في نهائيات كأس العالم من حيث العمر؟ / Who is the oldest player to appear in a FIFA World Cup match?",
+    "options": [
+      "روجر ميلا / Roger Milla",
+      "إسام الحداري / Essam El-Hadary",
+      "بوبي تشارلتون / Bobby Charlton",
+      "إريخ بوميل / Edwin van der Sar"
+    ],
+    "correct_answer": 1,
+    "difficulty": "متوسط"
+  },
+  {
+    "question": "من سجل خمسة أهداف في مباراة واحدة خلال نهائيات كأس العالم 1994؟ / Who scored five goals in a single World Cup match at the 1994 finals?",
+    "options": [
+      "روماريو / Romário",
+      "هريستو ستويتشكوف / Hristo Stoichkov",
+      "أوليج سالينكو / Oleg Salenko",
+      "خيسوس بورغوس / Jared Borgetti"
+    ],
+    "correct_answer": 2,
+    "difficulty": "متوسط"
+  },
+  {
+    "question": "أي دولتين استضافتا كأس العالم لأول مرة في آسيا عام 2002؟ / Which two countries co-hosted the FIFA World Cup for the first time in Asia in 2002?",
+    "options": [
+      "اليابان وكوريا الجنوبية / Japan and South Korea",
+      "الصين واليابان / China and Japan",
+      "الإمارات والسعودية / UAE and Saudi Arabia",
+      "الكويت وعمان / Kuwait and Oman"
+    ],
+    "correct_answer": 0,
+    "difficulty": "متوسط"
+  },
+  {
+    "question": "من فاز بكأس العالم 2018؟ / Who won the 2018 FIFA World Cup?",
+    "options": [
+      "البرازيل / Brazil",
+      "الأرجنتين / Argentina",
+      "فرنسا / France",
+      "ألمانيا / Germany"
+    ],
+    "correct_answer": 2,
+    "difficulty": "سهل"
+  },
+  {
+    "question": "من فاز بجائزة الكرة الذهبية (أفضل لاعب) في كأس العالم 2018؟ / Who won the Golden Ball (best player) at the 2018 World Cup?",
+    "options": [
+      "لوكا مودريتش / Luka Modrić",
+      "كريستيانو رونالدو / Cristiano Ronaldo",
+      "كيليان مبابي / Kylian Mbappé",
+      "محمد صلاح / Mohamed Salah"
+    ],
+    "correct_answer": 0,
+    "difficulty": "متوسط"
+  },
+  {
+    "question": "من يمتلك أكبر عدد من المباريات المسجلة في نهائيات كأس العالم كلاعب حتى 2022؟ / Who has played the most matches in FIFA World Cup finals as a player up to 2022?",
+    "options": [
+      "لوتار ماتيوس / Lothar Matthäus",
+      "ميروسلاف كلوزه / Miroslav Klose",
+      "ليونيل ميسي / Lionel Messi",
+      "كافو / Cafu"
+    ],
+    "correct_answer": 2,
+    "difficulty": "متوسط"
+  },
+  {
+    "question": "أي دولة استضافت كأس العالم 2014؟ / Which country hosted the 2014 FIFA World Cup?",
+    "options": [
+      "روسيا / Russia",
+      "البرازيل / Brazil",
+      "جنوب أفريقيا / South Africa",
+      "ألمانيا / Germany"
+    ],
+    "correct_answer": 1,
+    "difficulty": "سهل"
+  },
+  {
+    "question": "أي دولة استضافت كأس العالم لأول مرة في القارة الأفريقية؟ / Which country hosted the FIFA World Cup for the first time in Africa?",
+    "options": [
+      "الجزائر / Algeria",
+      "مصر / Egypt",
+      "جنوب أفريقيا / South Africa",
+      "السنغال / Senegal"
+    ],
+    "correct_answer": 2,
+    "difficulty": "سهل"
+  },
+  {
+    "question": "من سجل هدف \"يد الإله\" في كأس العالم 1986؟ / Who scored the 'Hand of God' goal at the 1986 World Cup?",
+    "options": [
+      "دييغو مارادونا / Diego Maradona",
+      "غاري لينكر / Gary Lineker",
+      "خافيير زانيتي / Javier Zanetti",
+      "ميشيل بلاتيني / Michel Platini"
+    ],
+    "correct_answer": 0,
+    "difficulty": "سهل"
+  },
+  {
+    "question": "من فاز بكأس العالم 2006؟ / Who won the 2006 FIFA World Cup?",
+    "options": [
+      "إيطاليا / Italy",
+      "فرنسا / France",
+      "إسبانيا / Spain",
+      "ألمانيا / Germany"
+    ],
+    "correct_answer": 0,
+    "difficulty": "سهل"
+  },
+  {
+    "question": "أي ملعب استضاف نهائي كأس العالم 1966؟ / Which stadium hosted the 1966 FIFA World Cup final?",
+    "options": [
+      "ويمبلي (لندن) / Wembley (London)",
+      "سانتياغو برنابيو / Santiago Bernabéu",
+      "ماراكانا / Maracanã",
+      "ميونيخ الأولمبي / Munich Olympic Stadium"
+    ],
+    "correct_answer": 0,
+    "difficulty": "متوسط"
+  },
+  {
+    "question": "من فاز بجائزة الكرة الذهبية لأفضل لاعب في كأس العالم 2014؟ / Who won the Golden Ball (best player) at the 2014 World Cup?",
+    "options": [
+      "ليونيل ميسي / Lionel Messi",
+      "توماس مولر / Thomas Müller",
+      "جيمس رودريغيز / James Rodríguez",
+      "لويس سواريس / Luis Suárez"
+    ],
+    "correct_answer": 0,
+    "difficulty": "متوسط"
+  },
+  {
+    "question": "من كان هداف كأس العالم 2002 (الحذاء الذهبي)؟ / Who was the top scorer (Golden Boot) at the 2002 World Cup?",
+    "options": [
+      "رونالدو (البرازيل) / Ronaldo (Brazil)",
+      "ريفالدو / Rivaldo",
+      "رونالدو (برتغالي) / Ronaldo (Portuguese)",
+      "زلاتان إبراهيموفيتش / Zlatan Ibrahimović"
+    ],
+    "correct_answer": 0,
+    "difficulty": "متوسط"
+  },
+  {
+    "question": "من هو أول شخص يفوز بكأس العالم كلاعب ثم كمدرِّب؟ / Who was the first person to win the FIFA World Cup both as a player and later as a head coach?",
+    "options": [
+      "فرانز بيكنباور / Franz Beckenbauer",
+      "ماريو زاجالو / Mário Zagallo",
+      "دييجو مارادونا / Diego Maradona",
+      "يوروبيتو بارالي / Vittorio Pozzo"
+    ],
+    "correct_answer": 1,
+    "difficulty": "صعب"
+  },
+  {
+    "question": "من هو الهداف التاريخي لمنتخب البرازيل في نهائيات كأس العالم؟ / Who is Brazil's all-time top scorer in World Cup finals?",
+    "options": [
+      "بيليه / Pelé",
+      "رونالدو (نازاريو) / Ronaldo (Nazário)",
+      "نيمار / Neymar",
+      "روماريو / Romário"
+    ],
+    "correct_answer": 2,
+    "difficulty": "متوسط"
+  },
+  {
+    "question": "أي دولة فازت بكأس العالم 2010؟ / Which country won the 2010 FIFA World Cup?",
+    "options": [
+      "هولندا / Netherlands",
+      "إسبانيا / Spain",
+      "ألمانيا / Germany",
+      "الأرجنتين / Argentina"
+    ],
+    "correct_answer": 1,
+    "difficulty": "سهل"
+  },
+  {
+    "question": "أي منتخب سجل أكبر عدد من الأهداف في مباراة واحدة في تاريخ نهائيات كأس العالم (10 أهداف)؟ / Which team scored the most goals in a single World Cup match (10 goals)?",
+    "options": [
+      "المجر ضد السلفادور (1982) / Hungary vs El Salvador (1982)",
+      "البرازيل ضد السويد / Brazil vs Sweden",
+      "ألمانيا ضد البرازيل / Germany vs Brazil",
+      "الأرجنتين ضد المكسيك / Argentina vs Mexico"
+    ],
+    "correct_answer": 0,
+    "difficulty": "صعب"
+  },
+  {
+    "question": "من فاز بكأس العالم 1998؟ / Who won the 1998 FIFA World Cup?",
+    "options": [
+      "فرنسا / France",
+      "البرازيل / Brazil",
+      "إيطاليا / Italy",
+      "الهندوراس / Honduras"
+    ],
+    "correct_answer": 0,
+    "difficulty": "سهل"
+  },
+  {
+    "question": "من أحرز ثلاثية (هاتريك) في نهائي كأس العالم 1966؟ / Who scored a hat-trick in the 1966 FIFA World Cup final?",
+    "options": [
+      "جورج بست / George Best",
+      "جيف هارست / Geoff Hurst",
+      "بوبي شارلتون / Bobby Charlton",
+      "مارك هيوز / Mark Hughes"
+    ],
+    "correct_answer": 1,
+    "difficulty": "متوسط"
+  },
+  {
+    "question": "من فاز بجائزة الحذاء الذهبي في كأس العالم 2010؟ / Who won the Golden Boot at the 2010 FIFA World Cup?",
+    "options": [
+      "ويين روني / Wayne Rooney",
+      "توماس مولر / Thomas Müller",
+      "ديفيد فيا / David Villa",
+      "سيرخيو أغويرو / Sergio Agüero"
+    ],
+    "correct_answer": 1,
+    "difficulty": "متوسط"
+  },
+  {
+    "question": "من فاز بكأس العالم 1950؟ / Who won the 1950 FIFA World Cup?",
+    "options": [
+      "البرازيل / Brazil",
+      "الأوروغواي / Uruguay",
+      "الأرجنتين / Argentina",
+      "إيطاليا / Italy"
+    ],
+    "correct_answer": 1,
+    "difficulty": "سهل"
+  },
+  {
+    "question": "كم عدد بطولات كأس العالم التي فازت بها إيطاليا حتى الآن؟ / How many FIFA World Cups has Italy won so far?",
+    "options": [
+      "واحدة / One",
+      "اثنتان / Two",
+      "أربع / Four",
+      "خمس / Five"
+    ],
+    "correct_answer": 2,
+    "difficulty": "سهل"
+  },
+  {
+    "question": "من كان هداف بطولة كأس العالم 1930 (أول نسخة)؟ / Who was the top scorer at the 1930 World Cup (the inaugural tournament)?",
+    "options": [
+      "غييرمو ستابيلي / Guillermo Stábile",
+      "جيدو ستابيلي / Héctor Castro",
+      "غلامبيلي ماريا / João Batista",
+      "جييري مارك / Ademir"
+    ],
+    "correct_answer": 0,
+    "difficulty": "صعب"
+  },
+  {
+    "question": "من سجل الركلة الحاسمة التي أعطت إيطاليا الفوز في ركلات الترجيح بنهائي كأس العالم 2006؟ / Who scored the decisive penalty that gave Italy victory in the 2006 World Cup penalty shootout?",
+    "options": [
+      "أندريا بيرلو / Andrea Pirlo",
+      "ديل بييرو / Alessandro Del Piero",
+      "فابيو جروسو / Fabio Grosso",
+      "فرانشيسكو توتي / Francesco Totti"
+    ],
+    "correct_answer": 2,
+    "difficulty": "صعب"
+  },
+  {
+    "question": "أي منتخب فاز بلقبي كأس العالم متتاليين (1958 و1962)؟ / Which nation won back-to-back World Cups in 1958 and 1962?",
+    "options": [
+      "الأرجنتين / Argentina",
+      "البرازيل / Brazil",
+      "إيطاليا / Italy",
+      "ألمانيا الغربية / West Germany"
+    ],
+    "correct_answer": 1,
+    "difficulty": "متوسط"
+  },
+  {
+    "question": "من طُرد من مباراة نهائي كأس العالم 2006 بعد ركلة بالرأس على لاعب منافس؟ / Who was sent off in the 2006 World Cup final after headbutting an opponent?",
+    "options": [
+      "زين الدين زيدان / Zinedine Zidane",
+      "روبرتو باجيو / Roberto Baggio",
+      "فرناندو توريس / Fernando Torres",
+      "تييري هنري / Thierry Henry"
+    ],
+    "correct_answer": 0,
+    "difficulty": "متوسط"
+  },
+  {
+    "question": "من سجل هدف الفوز في الوقت الإضافي في نهائي كأس العالم 2014؟ / Who scored the winning goal in extra time of the 2014 World Cup final?",
+    "options": [
+      "مارييو جوتزه / Mario Götze",
+      "ليونيل ميسي / Lionel Messi",
+      "أنخل دي ماريا / Ángel Di María",
+      "توماس مولر / Thomas Müller"
+    ],
+    "correct_answer": 0,
+    "difficulty": "متوسط"
+  },
+  {
+    "question": "أي منتخب إفريقي كان أول من يصل إلى دور ربع النهائي في كأس العالم (1990)؟ / Which African nation was the first to reach the World Cup quarter-finals (in 1990)?",
+    "options": [
+      "الكاميرون / Cameroon",
+      "السنيغال / Senegal",
+      "الجزائر / Algeria",
+      "السنغال / Morocco"
+    ],
+    "correct_answer": 0,
+    "difficulty": "متوسط"
+  },
+  {
+    "question": "أي دولة استضافت كأس العالم 1962؟ / Which country hosted the 1962 FIFA World Cup?",
+    "options": [
+      "المكسيك / Mexico",
+      "تشيلي / Chile",
+      "الأوروغواي / Uruguay",
+      "إنجلترا / England"
+    ],
+    "correct_answer": 1,
+    "difficulty": "صعب"
+  },
+  {
+    "question": "أي منتخب احتل المركز الثالث في كأس العالم 2014؟ / Which team finished third at the 2014 FIFA World Cup?",
+    "options": [
+      "البرازيل / Brazil",
+      "هولندا / Netherlands",
+      "المكسيك / Mexico",
+      "الأرجنتين / Argentina"
+    ],
+    "correct_answer": 1,
+    "difficulty": "متوسط"
+  },
+  {
+    "question": "أي منتخب وصل إلى أكبر عدد من نهائيات كأس العالم عبر التاريخ حتى 2022؟ / Which nation has reached the most FIFA World Cup finals in history up to 2022?",
+    "options": [
+      "البرازيل / Brazil",
+      "ألمانيا / Germany",
+      "إيطاليا / Italy",
+      "الأرجنتين / Argentina"
+    ],
+    "correct_answer": 1,
+    "difficulty": "متوسط"
+  },
+  {
+    "question": "من فاز بالحذاء الذهبي (هداف البطولة) في كأس العالم 2018؟ / Who won the Golden Boot (top scorer) at the 2018 FIFA World Cup?",
+    "options": [
+      "هاري كين / Harry Kane",
+      "كليان مبابي / Kylian Mbappé",
+      "أنتوان غريزمان / Antoine Griezmann",
+      "لوكا مودريتش / Luka Modric"
+    ],
+    "correct_answer": 0,
+    "difficulty": "سهل"
+  },
+  {
+    "question": "أي دولة استضافت أول كأس عالم فيفا عام 1930؟ / Which country hosted the first FIFA World Cup in 1930?",
+    "options": [
+      "الأرجنتين / Argentina",
+      "إيطاليا / Italy",
+      "أوروغواي / Uruguay",
+      "البرازيل / Brazil"
+    ],
+    "correct_answer": 2,
+    "difficulty": "متوسط"
+  },
+  {
+    "question": "من سجل هدف الفوز في نهائي كأس العالم 2010؟ / Who scored the winning goal in the 2010 FIFA World Cup final?",
+    "options": [
+      "ديفيد فيا / David Villa",
+      "أندريس إنييستا / Andrés Iniesta",
+      "تشافي هيرنانديز / Xavi Hernández",
+      "فرناندو توريس / Fernando Torres"
+    ],
+    "correct_answer": 1,
+    "difficulty": "صعب"
+  }
+]
